@@ -1,0 +1,3279 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: SNES - Super Mario World - Yoshis Island 1
+    m_Hash: 24048749
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_51
+      m_Hash: 832258567
+      m_Sprite: {fileID: -1654793307, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1654793307, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_102
+      m_Hash: 441592177
+      m_Sprite: {fileID: -1938266817, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1938266817, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_81
+      m_Hash: 70597706
+      m_Sprite: {fileID: -1468133441, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1468133441, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_0
+      m_Hash: 815841609
+      m_Sprite: {fileID: 1991610444, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1991610444, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_1
+      m_Hash: 128446943
+      m_Sprite: {fileID: 1196977450, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1196977450, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_2
+      m_Hash: 514760805
+      m_Sprite: {fileID: -1528120976, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1528120976, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_3
+      m_Hash: 698978547
+      m_Sprite: {fileID: 397128110, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 397128110, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_4
+      m_Hash: 936183120
+      m_Sprite: {fileID: 20575707, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 20575707, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_5
+      m_Hash: 13252038
+      m_Sprite: {fileID: -261889995, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -261889995, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_6
+      m_Hash: 432235644
+      m_Sprite: {fileID: -1316647026, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1316647026, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_7
+      m_Hash: 784618730
+      m_Sprite: {fileID: -1617671213, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1617671213, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_8
+      m_Hash: 1048267131
+      m_Sprite: {fileID: 1990732035, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1990732035, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_9
+      m_Hash: 159152621
+      m_Sprite: {fileID: -407121552, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -407121552, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_10
+      m_Hash: 586200981
+      m_Sprite: {fileID: 1935890201, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1935890201, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_11
+      m_Hash: 368543491
+      m_Sprite: {fileID: -1032810103, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1032810103, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_12
+      m_Hash: 218027705
+      m_Sprite: {fileID: -2025427647, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2025427647, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_13
+      m_Hash: 1006233135
+      m_Sprite: {fileID: -1827951794, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1827951794, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_14
+      m_Hash: 631075724
+      m_Sprite: {fileID: -1439302810, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1439302810, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_15
+      m_Hash: 312099610
+      m_Sprite: {fileID: 1997254933, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1997254933, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_16
+      m_Hash: 194187936
+      m_Sprite: {fileID: 1973638889, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1973638889, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_17
+      m_Hash: 1016341046
+      m_Sprite: {fileID: -327251092, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -327251092, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_18
+      m_Hash: 741031847
+      m_Sprite: {fileID: 791846962, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 791846962, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_19
+      m_Hash: 455872305
+      m_Sprite: {fileID: -970669636, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -970669636, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_20
+      m_Hash: 165536854
+      m_Sprite: {fileID: 1175300405, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1175300405, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_21
+      m_Hash: 1054528704
+      m_Sprite: {fileID: 228928802, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 228928802, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_22
+      m_Hash: 668173690
+      m_Sprite: {fileID: 122564698, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 122564698, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_23
+      m_Hash: 282375660
+      m_Sprite: {fileID: -1924490444, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1924490444, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_24
+      m_Hash: 246423631
+      m_Sprite: {fileID: -575825200, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -575825200, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_25
+      m_Hash: 968298713
+      m_Sprite: {fileID: 484894166, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 484894166, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_26
+      m_Hash: 549339491
+      m_Sprite: {fileID: -1900580720, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1900580720, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_27
+      m_Hash: 398029301
+      m_Sprite: {fileID: 1724288164, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1724288164, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_28
+      m_Hash: 117861476
+      m_Sprite: {fileID: -1426690431, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1426690431, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_29
+      m_Hash: 805395698
+      m_Sprite: {fileID: -2043067530, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2043067530, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_30
+      m_Hash: 281466135
+      m_Sprite: {fileID: -927863573, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -927863573, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_31
+      m_Hash: 667018625
+      m_Sprite: {fileID: -1578125487, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1578125487, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_32
+      m_Hash: 1053340731
+      m_Sprite: {fileID: -925203162, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -925203162, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_33
+      m_Hash: 164594861
+      m_Sprite: {fileID: 1848572301, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1848572301, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_34
+      m_Hash: 397086990
+      m_Sprite: {fileID: 790339625, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 790339625, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_35
+      m_Hash: 548151704
+      m_Sprite: {fileID: 1409390134, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1409390134, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_36
+      m_Hash: 967143458
+      m_Sprite: {fileID: 1437349316, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1437349316, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_37
+      m_Hash: 245514420
+      m_Sprite: {fileID: 365262240, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 365262240, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_38
+      m_Hash: 505240869
+      m_Sprite: {fileID: -1490181192, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1490181192, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_39
+      m_Hash: 689597875
+      m_Sprite: {fileID: -1815377332, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1815377332, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_40
+      m_Hash: 528958416
+      m_Sprite: {fileID: 91234086, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 91234086, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_41
+      m_Hash: 679506758
+      m_Sprite: {fileID: -1946455907, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1946455907, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_42
+      m_Hash: 831070972
+      m_Sprite: {fileID: -465262185, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -465262185, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_43
+      m_Hash: 109974122
+      m_Sprite: {fileID: -1165515545, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1165515545, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_44
+      m_Hash: 418023369
+      m_Sprite: {fileID: 711198711, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 711198711, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_45
+      m_Hash: 804108127
+      m_Sprite: {fileID: -502530024, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -502530024, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_46
+      m_Hash: 920970981
+      m_Sprite: {fileID: 2032566948, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2032566948, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_47
+      m_Hash: 31708787
+      m_Sprite: {fileID: 387256999, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 387256999, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_48
+      m_Hash: 291294178
+      m_Sprite: {fileID: 1910847575, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1910847575, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_49
+      m_Hash: 643562356
+      m_Sprite: {fileID: -2042829446, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2042829446, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_50
+      m_Hash: 110916241
+      m_Sprite: {fileID: 833946747, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 833946747, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_52
+      m_Hash: 680661949
+      m_Sprite: {fileID: 1529041376, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1529041376, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_53
+      m_Hash: 529867563
+      m_Sprite: {fileID: 1354898859, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1354898859, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_54
+      m_Hash: 32618120
+      m_Sprite: {fileID: 33100449, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 33100449, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_55
+      m_Hash: 922125854
+      m_Sprite: {fileID: 2076675135, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2076675135, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_56
+      m_Hash: 805296036
+      m_Sprite: {fileID: 1448462193, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1448462193, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_57
+      m_Hash: 418965298
+      m_Sprite: {fileID: 2033288991, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2033288991, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_58
+      m_Hash: 138934947
+      m_Sprite: {fileID: 1156051247, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1156051247, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_59
+      m_Hash: 1061210677
+      m_Sprite: {fileID: -1165485990, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1165485990, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_60
+      m_Hash: 766583122
+      m_Sprite: {fileID: 1198379717, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1198379717, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_61
+      m_Hash: 448139716
+      m_Sprite: {fileID: 1685504036, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1685504036, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_62
+      m_Hash: 62865534
+      m_Sprite: {fileID: 1148933903, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1148933903, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_63
+      m_Hash: 884502760
+      m_Sprite: {fileID: -593047161, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -593047161, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_64
+      m_Hash: 719119691
+      m_Sprite: {fileID: 1388950138, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1388950138, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_65
+      m_Hash: 500946397
+      m_Sprite: {fileID: -325522005, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -325522005, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_66
+      m_Hash: 80905319
+      m_Sprite: {fileID: -2080474105, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2080474105, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_67
+      m_Hash: 869643505
+      m_Sprite: {fileID: 2059229733, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2059229733, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_68
+      m_Hash: 594192736
+      m_Sprite: {fileID: -52319661, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -52319661, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_69
+      m_Hash: 342727158
+      m_Sprite: {fileID: -1369240399, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1369240399, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_70
+      m_Hash: 883560467
+      m_Sprite: {fileID: -1997633943, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1997633943, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_71
+      m_Hash: 61677701
+      m_Sprite: {fileID: 1921995488, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1921995488, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_72
+      m_Hash: 446984511
+      m_Sprite: {fileID: -1779036893, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1779036893, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_73
+      m_Hash: 765673897
+      m_Sprite: {fileID: -1635747826, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1635747826, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_74
+      m_Hash: 868733962
+      m_Sprite: {fileID: 1818621333, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1818621333, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_75
+      m_Hash: 79750300
+      m_Sprite: {fileID: 261682104, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 261682104, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_76
+      m_Hash: 499758374
+      m_Sprite: {fileID: -1827509947, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1827509947, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_77
+      m_Hash: 718177712
+      m_Sprite: {fileID: 1514042301, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1514042301, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_78
+      m_Hash: 980523041
+      m_Sprite: {fileID: -689203303, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -689203303, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_79
+      m_Hash: 225880247
+      m_Sprite: {fileID: 2104660983, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2104660983, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_80
+      m_Hash: 858918108
+      m_Sprite: {fileID: 514089971, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 514089971, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_82
+      m_Hash: 490499568
+      m_Sprite: {fileID: 1211451047, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1211451047, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_83
+      m_Hash: 708533606
+      m_Sprite: {fileID: -1734831633, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1734831633, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_84
+      m_Hash: 878692549
+      m_Sprite: {fileID: -920614403, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -920614403, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_85
+      m_Hash: 56162387
+      m_Sprite: {fileID: -255094615, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -255094615, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_86
+      m_Hash: 441559529
+      m_Sprite: {fileID: 1181726513, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1181726513, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_87
+      m_Hash: 760650111
+      m_Sprite: {fileID: 2002726741, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2002726741, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_88
+      m_Hash: 1038714094
+      m_Sprite: {fileID: -1633565140, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1633565140, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_89
+      m_Hash: 183415928
+      m_Sprite: {fileID: -104164565, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -104164565, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_90
+      m_Hash: 707345821
+      m_Sprite: {fileID: 1245986645, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1245986645, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_91
+      m_Hash: 489557259
+      m_Sprite: {fileID: -1132876385, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1132876385, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_92
+      m_Hash: 69688497
+      m_Sprite: {fileID: 152373514, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 152373514, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_93
+      m_Hash: 857762855
+      m_Sprite: {fileID: 1837214612, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1837214612, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_94
+      m_Hash: 759495044
+      m_Sprite: {fileID: -1374470452, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1374470452, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_95
+      m_Hash: 440650002
+      m_Sprite: {fileID: 1123487398, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1123487398, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_96
+      m_Hash: 55220392
+      m_Sprite: {fileID: -498572754, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -498572754, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_97
+      m_Hash: 877504574
+      m_Sprite: {fileID: -807913767, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -807913767, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_98
+      m_Hash: 619885999
+      m_Sprite: {fileID: 1874458440, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1874458440, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_99
+      m_Hash: 334857529
+      m_Sprite: {fileID: -1653283253, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1653283253, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_100
+      m_Hash: 878463069
+      m_Sprite: {fileID: -974700758, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -974700758, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_101
+      m_Hash: 56326347
+      m_Sprite: {fileID: -45977563, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -45977563, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_103
+      m_Hash: 760551911
+      m_Sprite: {fileID: 1861489891, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1861489891, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_104
+      m_Hash: 858885188
+      m_Sprite: {fileID: -732937399, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -732937399, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_105
+      m_Hash: 70696146
+      m_Sprite: {fileID: 211914084, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 211914084, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_106
+      m_Hash: 490728808
+      m_Sprite: {fileID: -2079214175, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2079214175, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_107
+      m_Hash: 708369918
+      m_Sprite: {fileID: 208205396, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 208205396, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_108
+      m_Hash: 981975151
+      m_Sprite: {fileID: 971413965, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 971413965, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_109
+      m_Hash: 226554105
+      m_Sprite: {fileID: 890936091, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 890936091, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_110
+      m_Hash: 759658780
+      m_Sprite: {fileID: 1547336830, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1547336830, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_111
+      m_Hash: 440420746
+      m_Sprite: {fileID: -947618845, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -947618845, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_112
+      m_Hash: 55121968
+      m_Sprite: {fileID: 85634747, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 85634747, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_113
+      m_Hash: 877537446
+      m_Sprite: {fileID: -503004237, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -503004237, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_114
+      m_Hash: 707443973
+      m_Sprite: {fileID: -689008634, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -689008634, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_115
+      m_Hash: 489524627
+      m_Sprite: {fileID: -1494118117, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1494118117, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_116
+      m_Hash: 69524521
+      m_Sprite: {fileID: -1898217069, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1898217069, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_117
+      m_Hash: 857992383
+      m_Sprite: {fileID: 83122240, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 83122240, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_118
+      m_Hash: 597487918
+      m_Sprite: {fileID: 966108460, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 966108460, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_119
+      m_Hash: 345751992
+      m_Sprite: {fileID: 1916145621, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1916145621, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_120
+      m_Hash: 107621087
+      m_Sprite: {fileID: -1772267063, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1772267063, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_121
+      m_Hash: 829233737
+      m_Sprite: {fileID: -1368815010, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1368815010, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_122
+      m_Hash: 677661683
+      m_Sprite: {fileID: -988281223, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -988281223, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_123
+      m_Hash: 526613349
+      m_Sprite: {fileID: -244403450, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -244403450, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_124
+      m_Hash: 17297094
+      m_Sprite: {fileID: 1983258678, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1983258678, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_125
+      m_Hash: 906026576
+      m_Sprite: {fileID: -1886084893, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1886084893, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_126
+      m_Hash: 789155818
+      m_Sprite: {fileID: -504076560, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -504076560, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_127
+      m_Hash: 403619708
+      m_Sprite: {fileID: 1899344666, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1899344666, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_128
+      m_Hash: 145859309
+      m_Sprite: {fileID: 829169772, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 829169772, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_129
+      m_Hash: 1068929659
+      m_Sprite: {fileID: -1328727352, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1328727352, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_130
+      m_Hash: 527506334
+      m_Sprite: {fileID: -1653377130, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1653377130, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_131
+      m_Hash: 678832904
+      m_Sprite: {fileID: -313638310, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -313638310, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_132
+      m_Hash: 830438066
+      m_Sprite: {fileID: -517827408, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -517827408, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_133
+      m_Hash: 108546596
+      m_Sprite: {fileID: -1150137873, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1150137873, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_134
+      m_Hash: 404545415
+      m_Sprite: {fileID: -682816584, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -682816584, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_135
+      m_Hash: 790359825
+      m_Sprite: {fileID: 639938963, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 639938963, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_136
+      m_Hash: 907198123
+      m_Sprite: {fileID: -1441739567, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1441739567, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_137
+      m_Hash: 18189885
+      m_Sprite: {fileID: -861098604, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -861098604, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_138
+      m_Hash: 296391596
+      m_Sprite: {fileID: 1940060624, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1940060624, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_139
+      m_Hash: 648913722
+      m_Sprite: {fileID: 280191020, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 280191020, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_140
+      m_Hash: 271617369
+      m_Sprite: {fileID: -123001444, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -123001444, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_141
+      m_Hash: 657964495
+      m_Sprite: {fileID: -180660134, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -180660134, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_142
+      m_Hash: 1044311157
+      m_Sprite: {fileID: 343336336, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 343336336, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_143
+      m_Hash: 154787043
+      m_Sprite: {fileID: -1152425055, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1152425055, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_144
+      m_Hash: 391989568
+      m_Sprite: {fileID: 411629185, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 411629185, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_145
+      m_Hash: 542800342
+      m_Sprite: {fileID: -1110447196, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1110447196, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_146
+      m_Hash: 961751148
+      m_Sprite: {fileID: -2045296964, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2045296964, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_147
+      m_Hash: 240392442
+      m_Sprite: {fileID: -1280936824, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1280936824, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_148
+      m_Hash: 518718827
+      m_Sprite: {fileID: -743864456, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -743864456, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_149
+      m_Hash: 703346173
+      m_Sprite: {fileID: -1147162470, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1147162470, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_150
+      m_Hash: 153861144
+      m_Sprite: {fileID: -506852895, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -506852895, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_151
+      m_Hash: 1043106958
+      m_Sprite: {fileID: -865732397, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -865732397, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_152
+      m_Hash: 656792884
+      m_Sprite: {fileID: -1691897857, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1691897857, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_153
+      m_Hash: 270724514
+      m_Sprite: {fileID: -269139860, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -269139860, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_154
+      m_Hash: 239499265
+      m_Sprite: {fileID: -275327606, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -275327606, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_155
+      m_Hash: 960579735
+      m_Sprite: {fileID: 1989360590, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1989360590, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_156
+      m_Hash: 541595949
+      m_Sprite: {fileID: -1471565088, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1471565088, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_157
+      m_Hash: 391063995
+      m_Sprite: {fileID: -598111238, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -598111238, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_158
+      m_Hash: 133182506
+      m_Sprite: {fileID: -595828709, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -595828709, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_159
+      m_Hash: 821494972
+      m_Sprite: {fileID: 1569004402, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1569004402, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_160
+      m_Hash: 570879963
+      m_Sprite: {fileID: 597731518, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 597731518, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_161
+      m_Hash: 352444237
+      m_Sprite: {fileID: -315827060, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -315827060, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_162
+      m_Hash: 201887479
+      m_Sprite: {fileID: -1112822740, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1112822740, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_163
+      m_Hash: 990887521
+      m_Sprite: {fileID: 363018806, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 363018806, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_164
+      m_Hash: 627780546
+      m_Sprite: {fileID: -1692428737, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1692428737, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_165
+      m_Hash: 309074772
+      m_Sprite: {fileID: -982183129, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -982183129, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_166
+      m_Hash: 191187694
+      m_Sprite: {fileID: -1113411053, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1113411053, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_167
+      m_Hash: 1013086840
+      m_Sprite: {fileID: -1168134134, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1168134134, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_168
+      m_Hash: 752707561
+      m_Sprite: {fileID: 215755044, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 215755044, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_169
+      m_Hash: 467294079
+      m_Sprite: {fileID: -1537895374, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1537895374, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_170
+      m_Hash: 991813274
+      m_Sprite: {fileID: -757497126, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -757497126, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_171
+      m_Hash: 203091468
+      m_Sprite: {fileID: 1167625192, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1167625192, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_172
+      m_Hash: 353615798
+      m_Sprite: {fileID: -178183755, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -178183755, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_173
+      m_Hash: 571772704
+      m_Sprite: {fileID: 1474219202, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1474219202, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_174
+      m_Hash: 1013979779
+      m_Sprite: {fileID: 1334813647, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1334813647, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_175
+      m_Hash: 192358933
+      m_Sprite: {fileID: -1289863357, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1289863357, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_176
+      m_Hash: 310279087
+      m_Sprite: {fileID: -1887199800, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1887199800, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_177
+      m_Hash: 628706105
+      m_Sprite: {fileID: 612915843, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 612915843, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_178
+      m_Hash: 902190760
+      m_Sprite: {fileID: -1504647933, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1504647933, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_179
+      m_Hash: 46229054
+      m_Sprite: {fileID: -236933787, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -236933787, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_180
+      m_Hash: 1015398997
+      m_Sprite: {fileID: 1457885298, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1457885298, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_181
+      m_Hash: 193131203
+      m_Sprite: {fileID: 1677426809, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1677426809, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_182
+      m_Hash: 311141241
+      m_Sprite: {fileID: -1649444171, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1649444171, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_183
+      m_Hash: 629969903
+      m_Sprite: {fileID: -1672256574, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1672256574, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_184
+      m_Hash: 1005061708
+      m_Sprite: {fileID: -685317894, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -685317894, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_185
+      m_Hash: 217003738
+      m_Sprite: {fileID: -716503494, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -716503494, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_186
+      m_Hash: 367421280
+      m_Sprite: {fileID: 255061467, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 255061467, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_187
+      m_Hash: 585193462
+      m_Sprite: {fileID: 1727793931, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1727793931, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_188
+      m_Hash: 845040231
+      m_Sprite: {fileID: 2066458663, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2066458663, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_189
+      m_Hash: 89750257
+      m_Sprite: {fileID: 1225440280, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1225440280, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_190
+      m_Hash: 631173908
+      m_Sprite: {fileID: -1011420185, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1011420185, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_191
+      m_Hash: 312066946
+      m_Sprite: {fileID: 1383508904, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1383508904, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_192
+      m_Hash: 194023992
+      m_Sprite: {fileID: 1718256151, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1718256151, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_193
+      m_Hash: 1016570542
+      m_Sprite: {fileID: 1319001600, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1319001600, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_194
+      m_Hash: 586364685
+      m_Sprite: {fileID: -1616168457, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1616168457, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_195
+      m_Hash: 368314267
+      m_Sprite: {fileID: -662815531, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -662815531, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_196
+      m_Hash: 217929249
+      m_Sprite: {fileID: -635298275, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -635298275, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_197
+      m_Hash: 1006266039
+      m_Sprite: {fileID: -533629858, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -533629858, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_198
+      m_Hash: 725973798
+      m_Sprite: {fileID: -1554500733, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1554500733, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_199
+      m_Hash: 474106800
+      m_Sprite: {fileID: 1247650287, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1247650287, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_200
+      m_Hash: 907736580
+      m_Sprite: {fileID: 314739447, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 314739447, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_201
+      m_Hash: 18728594
+      m_Sprite: {fileID: 2125630554, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2125630554, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_202
+      m_Hash: 404002600
+      m_Sprite: {fileID: -528703196, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -528703196, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_203
+      m_Hash: 789817278
+      m_Sprite: {fileID: 696682498, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 696682498, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_204
+      m_Hash: 829895197
+      m_Sprite: {fileID: 1254499272, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1254499272, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_205
+      m_Hash: 108003979
+      m_Sprite: {fileID: -1424458806, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1424458806, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_206
+      m_Hash: 528044849
+      m_Sprite: {fileID: -1308930070, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1308930070, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_207
+      m_Hash: 679371687
+      m_Sprite: {fileID: -145091790, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -145091790, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_208
+      m_Hash: 952204854
+      m_Sprite: {fileID: -483039910, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -483039910, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_209
+      m_Hash: 264654496
+      m_Sprite: {fileID: -1749028995, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1749028995, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_210
+      m_Hash: 788645701
+      m_Sprite: {fileID: -1685589134, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1685589134, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_211
+      m_Hash: 403109843
+      m_Sprite: {fileID: 1387841428, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1387841428, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_212
+      m_Hash: 17802857
+      m_Sprite: {fileID: 1096397833, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1096397833, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_213
+      m_Hash: 906532607
+      m_Sprite: {fileID: -1006772502, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1006772502, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_214
+      m_Hash: 678167388
+      m_Sprite: {fileID: 462904019, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 462904019, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_215
+      m_Hash: 527119306
+      m_Sprite: {fileID: 1069518734, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1069518734, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_216
+      m_Hash: 107111024
+      m_Sprite: {fileID: 307052030, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 307052030, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_217
+      m_Hash: 828723942
+      m_Sprite: {fileID: -365704210, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -365704210, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_218
+      m_Hash: 567955319
+      m_Sprite: {fileID: -685919527, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -685919527, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_219
+      m_Hash: 383614945
+      m_Sprite: {fileID: -1357395117, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1357395117, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_220
+      m_Hash: 70030470
+      m_Sprite: {fileID: 1216831503, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1216831503, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_221
+      m_Hash: 858498064
+      m_Sprite: {fileID: -960658960, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -960658960, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_222
+      m_Hash: 706934186
+      m_Sprite: {fileID: -1084556139, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1084556139, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_223
+      m_Hash: 489014588
+      m_Sprite: {fileID: -1103983688, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1103983688, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_224
+      m_Hash: 54612127
+      m_Sprite: {fileID: 380275978, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 380275978, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_225
+      m_Hash: 877027337
+      m_Sprite: {fileID: -1571115307, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1571115307, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_226
+      m_Hash: 760164787
+      m_Sprite: {fileID: -1652323194, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1652323194, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_227
+      m_Hash: 440926501
+      m_Sprite: {fileID: 466180523, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 466180523, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_228
+      m_Hash: 183966900
+      m_Sprite: {fileID: -1916790753, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1916790753, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_229
+      m_Hash: 1039150114
+      m_Sprite: {fileID: -1201040556, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1201040556, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_230
+      m_Hash: 490186183
+      m_Sprite: {fileID: -1743828129, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1743828129, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_231
+      m_Hash: 707827025
+      m_Sprite: {fileID: -1831301255, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1831301255, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_232
+      m_Hash: 859423979
+      m_Sprite: {fileID: 1190447848, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1190447848, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_233
+      m_Hash: 71234685
+      m_Sprite: {fileID: 1870399973, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1870399973, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_234
+      m_Hash: 442130910
+      m_Sprite: {fileID: -1656550892, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1656550892, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_235
+      m_Hash: 761090376
+      m_Sprite: {fileID: -1234193455, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1234193455, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_236
+      m_Hash: 877920498
+      m_Sprite: {fileID: -796186640, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -796186640, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_237
+      m_Hash: 55783524
+      m_Sprite: {fileID: 1832711137, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1832711137, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_238
+      m_Hash: 334245365
+      m_Sprite: {fileID: -873598360, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -873598360, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_239
+      m_Hash: 619388259
+      m_Sprite: {fileID: 841180904, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 841180904, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_240
+      m_Hash: 309736192
+      m_Sprite: {fileID: 928938721, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 928938721, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_241
+      m_Hash: 628163478
+      m_Sprite: {fileID: 405163146, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 405163146, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_242
+      m_Hash: 1014518316
+      m_Sprite: {fileID: 363916287, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 363916287, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_243
+      m_Hash: 192897722
+      m_Sprite: {fileID: -1137339090, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1137339090, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_244
+      m_Hash: 354154265
+      m_Sprite: {fileID: 795016061, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 795016061, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_245
+      m_Hash: 572311439
+      m_Sprite: {fileID: 1130248354, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1130248354, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_246
+      m_Hash: 991270453
+      m_Sprite: {fileID: 987994096, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 987994096, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_247
+      m_Hash: 202548899
+      m_Sprite: {fileID: 655109545, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 655109545, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_248
+      m_Hash: 481147698
+      m_Sprite: {fileID: -232795335, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -232795335, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_249
+      m_Hash: 732597156
+      m_Sprite: {fileID: 772481969, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 772481969, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_250
+      m_Hash: 191693377
+      m_Sprite: {fileID: 2021558724, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2021558724, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_251
+      m_Hash: 1013592791
+      m_Sprite: {fileID: 1377165769, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1377165769, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_252
+      m_Hash: 627270509
+      m_Sprite: {fileID: -1097630630, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1097630630, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_253
+      m_Hash: 308564987
+      m_Sprite: {fileID: -782166478, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -782166478, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_254
+      m_Hash: 201377368
+      m_Sprite: {fileID: -1690416345, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1690416345, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_255
+      m_Hash: 990377678
+      m_Sprite: {fileID: -1043871386, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1043871386, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_256
+      m_Hash: 571385716
+      m_Sprite: {fileID: 246491565, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 246491565, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_257
+      m_Hash: 352950242
+      m_Sprite: {fileID: -357104468, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -357104468, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_258
+      m_Hash: 95849075
+      m_Sprite: {fileID: 509738530, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 509738530, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_259
+      m_Hash: 850508517
+      m_Sprite: {fileID: -796850557, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -796850557, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_260
+      m_Hash: 541086082
+      m_Sprite: {fileID: 1177017774, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1177017774, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_261
+      m_Hash: 390553876
+      m_Sprite: {fileID: -13773436, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -13773436, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_262
+      m_Hash: 240005294
+      m_Sprite: {fileID: 40991477, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 40991477, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_263
+      m_Hash: 961085496
+      m_Sprite: {fileID: 1309151345, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1309151345, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_264
+      m_Hash: 657298843
+      m_Sprite: {fileID: -2075394254, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2075394254, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_265
+      m_Hash: 271230221
+      m_Sprite: {fileID: -311660498, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -311660498, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_266
+      m_Hash: 153351351
+      m_Sprite: {fileID: 1069689032, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1069689032, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_267
+      m_Hash: 1042596897
+      m_Sprite: {fileID: 158958915, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 158958915, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_268
+      m_Hash: 781965744
+      m_Sprite: {fileID: -1441655091, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1441655091, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_269
+      m_Hash: 429713702
+      m_Sprite: {fileID: -852278630, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -852278630, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_270
+      m_Hash: 962289859
+      m_Sprite: {fileID: -686208261, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -686208261, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_271
+      m_Hash: 240930901
+      m_Sprite: {fileID: -2106217110, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2106217110, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_272
+      m_Hash: 391447023
+      m_Sprite: {fileID: 2113361668, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2113361668, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_273
+      m_Hash: 542257529
+      m_Sprite: {fileID: -449697851, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -449697851, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_274
+      m_Hash: 1043768538
+      m_Sprite: {fileID: 172851953, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 172851953, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_275
+      m_Hash: 154244172
+      m_Sprite: {fileID: -412286936, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -412286936, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_276
+      m_Hash: 272156150
+      m_Sprite: {fileID: -603952698, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -603952698, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_277
+      m_Hash: 658503008
+      m_Sprite: {fileID: -2011352259, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2011352259, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_278
+      m_Hash: 931195121
+      m_Sprite: {fileID: 2142659544, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2142659544, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_279
+      m_Hash: 8902759
+      m_Sprite: {fileID: 1246748134, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1246748134, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_280
+      m_Hash: 1052998668
+      m_Sprite: {fileID: -1197607803, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1197607803, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_281
+      m_Hash: 163859610
+      m_Sprite: {fileID: 891142170, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 891142170, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_282
+      m_Hash: 281877792
+      m_Sprite: {fileID: -2089807330, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2089807330, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_283
+      m_Hash: 667561398
+      m_Sprite: {fileID: -374358099, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -374358099, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_284
+      m_Hash: 967751701
+      m_Sprite: {fileID: -738416664, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -738416664, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_285
+      m_Hash: 245991555
+      m_Sprite: {fileID: -509443063, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -509443063, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_286
+      m_Hash: 396417337
+      m_Sprite: {fileID: 1201411695, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1201411695, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_287
+      m_Hash: 547875247
+      m_Sprite: {fileID: -1828258937, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1828258937, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_288
+      m_Hash: 806941758
+      m_Sprite: {fileID: -68205848, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -68205848, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_289
+      m_Hash: 119522472
+      m_Sprite: {fileID: -2145488223, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2145488223, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_290
+      m_Hash: 668486989
+      m_Sprite: {fileID: 946986847, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 946986847, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_291
+      m_Hash: 283082203
+      m_Sprite: {fileID: 676312294, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 676312294, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_292
+      m_Hash: 165031009
+      m_Sprite: {fileID: -429757738, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -429757738, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_293
+      m_Hash: 1053891831
+      m_Sprite: {fileID: -1496449480, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1496449480, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_294
+      m_Hash: 548768084
+      m_Sprite: {fileID: -1670987637, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1670987637, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_295
+      m_Hash: 397588930
+      m_Sprite: {fileID: -1428946951, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1428946951, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_296
+      m_Hash: 247195768
+      m_Sprite: {fileID: 739803421, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 739803421, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_297
+      m_Hash: 968677614
+      m_Sprite: {fileID: 960123773, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 960123773, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_298
+      m_Hash: 688113023
+      m_Sprite: {fileID: -565917994, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -565917994, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_299
+      m_Hash: 503641577
+      m_Sprite: {fileID: -829212858, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -829212858, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_300
+      m_Hash: 936942643
+      m_Sprite: {fileID: 2063967595, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2063967595, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_301
+      m_Hash: 14658725
+      m_Sprite: {fileID: -1605877325, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1605877325, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_302
+      m_Hash: 433519903
+      m_Sprite: {fileID: 1222317694, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1222317694, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_303
+      m_Hash: 785501577
+      m_Sprite: {fileID: 178925730, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 178925730, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_304
+      m_Hash: 817190954
+      m_Sprite: {fileID: -1638299772, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1638299772, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_305
+      m_Hash: 129132732
+      m_Sprite: {fileID: -874437530, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -874437530, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_306
+      m_Hash: 515586310
+      m_Sprite: {fileID: -1458888753, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1458888753, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_307
+      m_Hash: 700189072
+      m_Sprite: {fileID: -114461760, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -114461760, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_308
+      m_Hash: 956503041
+      m_Sprite: {fileID: -1892954980, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1892954980, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_309
+      m_Hash: 235152535
+      m_Sprite: {fileID: 654347116, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 654347116, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_310
+      m_Hash: 784575858
+      m_Sprite: {fileID: -664882936, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -664882936, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_311
+      m_Hash: 432315876
+      m_Sprite: {fileID: 1316294132, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1316294132, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_312
+      m_Hash: 13487198
+      m_Sprite: {fileID: 149730083, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 149730083, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_313
+      m_Hash: 936049864
+      m_Sprite: {fileID: -928221397, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -928221397, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_314
+      m_Hash: 699296107
+      m_Sprite: {fileID: 1898377381, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1898377381, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_315
+      m_Hash: 514415101
+      m_Sprite: {fileID: 883327425, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 883327425, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_316
+      m_Hash: 127928391
+      m_Sprite: {fileID: -657363813, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -657363813, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_317
+      m_Hash: 816265425
+      m_Sprite: {fileID: -852296186, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -852296186, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_318
+      m_Hash: 538453312
+      m_Sprite: {fileID: -534593999, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -534593999, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_319
+      m_Hash: 387913174
+      m_Sprite: {fileID: -2130008347, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2130008347, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_320
+      m_Hash: 99548849
+      m_Sprite: {fileID: -1500383130, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1500383130, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_321
+      m_Hash: 854183463
+      m_Sprite: {fileID: -1421179111, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1421179111, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_322
+      m_Hash: 736141213
+      m_Sprite: {fileID: 99846581, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 99846581, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_323
+      m_Hash: 484945675
+      m_Sprite: {fileID: 764628590, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 764628590, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_324
+      m_Hash: 42154664
+      m_Sprite: {fileID: 589698441, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 589698441, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_325
+      m_Hash: 897845822
+      m_Sprite: {fileID: 720292193, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 720292193, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_326
+      m_Hash: 747461508
+      m_Sprite: {fileID: 199072888, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 199072888, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_327
+      m_Hash: 462056210
+      m_Sprite: {fileID: -450555739, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -450555739, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_328
+      m_Hash: 188053123
+      m_Sprite: {fileID: -334231107, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -334231107, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_329
+      m_Hash: 1009927701
+      m_Sprite: {fileID: -1748473839, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1748473839, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_330
+      m_Hash: 485871600
+      m_Sprite: {fileID: 1812992486, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1812992486, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_331
+      m_Hash: 737345382
+      m_Sprite: {fileID: -922764598, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -922764598, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_332
+      m_Hash: 855355100
+      m_Sprite: {fileID: -1327109, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1327109, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_333
+      m_Hash: 100441674
+      m_Sprite: {fileID: 1959291822, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1959291822, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_334
+      m_Hash: 462949353
+      m_Sprite: {fileID: -518171734, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -518171734, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_335
+      m_Hash: 748632959
+      m_Sprite: {fileID: 848178932, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 848178932, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_336
+      m_Hash: 899050181
+      m_Sprite: {fileID: 211000070, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 211000070, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_337
+      m_Hash: 43080275
+      m_Sprite: {fileID: -673886113, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -673886113, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_338
+      m_Hash: 305022914
+      m_Sprite: {fileID: 746773165, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 746773165, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_339
+      m_Hash: 623474516
+      m_Sprite: {fileID: -902469182, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -902469182, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_340
+      m_Hash: 330586423
+      m_Sprite: {fileID: -1781020850, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1781020850, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_341
+      m_Hash: 615737761
+      m_Sprite: {fileID: 421423619, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 421423619, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_342
+      m_Hash: 1035614235
+      m_Sprite: {fileID: 1475972321, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1475972321, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_343
+      m_Hash: 180160653
+      m_Sprite: {fileID: 886745514, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 886745514, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_344
+      m_Hash: 349805870
+      m_Sprite: {fileID: 1469559284, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1469559284, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_345
+      m_Hash: 601796024
+      m_Sprite: {fileID: 1832000279, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1832000279, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_346
+      m_Hash: 987233282
+      m_Sprite: {fileID: 253027297, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 253027297, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_347
+      m_Hash: 231787668
+      m_Sprite: {fileID: 327423786, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 327423786, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_348
+      m_Hash: 493867269
+      m_Sprite: {fileID: -579374417, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -579374417, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_349
+      m_Hash: 711516563
+      m_Sprite: {fileID: -1665918274, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1665918274, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_350
+      m_Hash: 179267702
+      m_Sprite: {fileID: 2041730745, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2041730745, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_351
+      m_Hash: 1034442976
+      m_Sprite: {fileID: -1847822928, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1847822928, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_352
+      m_Hash: 614533466
+      m_Sprite: {fileID: -1968088956, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1968088956, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_353
+      m_Hash: 329660876
+      m_Sprite: {fileID: -1702362833, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1702362833, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_354
+      m_Hash: 230861935
+      m_Sprite: {fileID: 822018041, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 822018041, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_355
+      m_Hash: 986029305
+      m_Sprite: {fileID: -1857042055, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1857042055, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_356
+      m_Hash: 600624451
+      m_Sprite: {fileID: 1260319717, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1260319717, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_357
+      m_Hash: 348913109
+      m_Sprite: {fileID: 763727356, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 763727356, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_358
+      m_Hash: 74768452
+      m_Sprite: {fileID: 1202543509, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1202543509, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_359
+      m_Hash: 863228114
+      m_Sprite: {fileID: -1270528074, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1270528074, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_360
+      m_Hash: 562183093
+      m_Sprite: {fileID: -1420014031, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1420014031, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_361
+      m_Hash: 377817891
+      m_Sprite: {fileID: 1296157270, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1296157270, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_362
+      m_Hash: 260856473
+      m_Sprite: {fileID: 436905334, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 436905334, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_363
+      m_Hash: 948660751
+      m_Sprite: {fileID: -1403678769, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1403678769, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_364
+      m_Hash: 653262764
+      m_Sprite: {fileID: 516558334, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 516558334, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_365
+      m_Hash: 300470074
+      m_Sprite: {fileID: 100131705, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 100131705, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_366
+      m_Hash: 149003904
+      m_Sprite: {fileID: 626940497, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 626940497, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_367
+      m_Hash: 1072082454
+      m_Sprite: {fileID: -1156258902, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1156258902, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_368
+      m_Hash: 794407815
+      m_Sprite: {fileID: 150649847, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 150649847, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_369
+      m_Hash: 408847121
+      m_Sprite: {fileID: 111151433, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 111151433, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_370
+      m_Hash: 949553908
+      m_Sprite: {fileID: -2056905669, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2056905669, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_371
+      m_Hash: 262027874
+      m_Sprite: {fileID: 1488073579, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1488073579, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_372
+      m_Hash: 379022296
+      m_Sprite: {fileID: 442536735, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 442536735, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_373
+      m_Hash: 563108686
+      m_Sprite: {fileID: 1748080767, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1748080767, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_374
+      m_Hash: 1073008365
+      m_Sprite: {fileID: 1228364751, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1228364751, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_375
+      m_Hash: 150208123
+      m_Sprite: {fileID: -1148152686, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1148152686, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_376
+      m_Hash: 301641665
+      m_Sprite: {fileID: 770062304, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 770062304, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_377
+      m_Hash: 654155607
+      m_Sprite: {fileID: -1964021487, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1964021487, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_378
+      m_Hash: 910328518
+      m_Sprite: {fileID: -2004305817, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2004305817, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_379
+      m_Hash: 21344848
+      m_Sprite: {fileID: -7118559, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7118559, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_380
+      m_Hash: 1057035835
+      m_Sprite: {fileID: 1717931399, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1717931399, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_381
+      m_Hash: 134620845
+      m_Sprite: {fileID: -914869357, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -914869357, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_382
+      m_Hash: 286226199
+      m_Sprite: {fileID: -1606230409, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1606230409, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_383
+      m_Hash: 638076801
+      m_Sprite: {fileID: -457179966, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -457179966, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_384
+      m_Hash: 946655778
+      m_Sprite: {fileID: 1974857108, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1974857108, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_385
+      m_Hash: 258728628
+      m_Sprite: {fileID: -2057386042, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2057386042, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_386
+      m_Hash: 375567118
+      m_Sprite: {fileID: 1963977466, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1963977466, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_387
+      m_Hash: 560300952
+      m_Sprite: {fileID: -459643823, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -459643823, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_388
+      m_Hash: 836410889
+      m_Sprite: {fileID: -1811451914, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1811451914, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_389
+      m_Hash: 115191455
+      m_Sprite: {fileID: -529966027, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -529966027, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_390
+      m_Hash: 639248250
+      m_Sprite: {fileID: 988787066, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 988787066, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_391
+      m_Hash: 287119340
+      m_Sprite: {fileID: -1215353567, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1215353567, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_392
+      m_Hash: 135546454
+      m_Sprite: {fileID: -1742156306, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1742156306, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_393
+      m_Hash: 1058240192
+      m_Sprite: {fileID: 917077179, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 917077179, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_394
+      m_Hash: 561505123
+      m_Sprite: {fileID: 1884927638, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1884927638, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_395
+      m_Hash: 376493045
+      m_Sprite: {fileID: 355992776, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 355992776, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_396
+      m_Hash: 259621455
+      m_Sprite: {fileID: 568472896, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 568472896, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_397
+      m_Hash: 947827417
+      m_Sprite: {fileID: 228262662, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 228262662, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_398
+      m_Hash: 683781960
+      m_Sprite: {fileID: 815678138, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 815678138, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_399
+      m_Hash: 533110750
+      m_Sprite: {fileID: -211021886, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -211021886, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_400
+      m_Hash: 848792246
+      m_Sprite: {fileID: -2142079917, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2142079917, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_401
+      m_Hash: 93370912
+      m_Sprite: {fileID: -1781700037, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1781700037, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_402
+      m_Hash: 479849370
+      m_Sprite: {fileID: -903141121, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -903141121, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_403
+      m_Hash: 731831052
+      m_Sprite: {fileID: 839433905, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 839433905, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_404
+      m_Hash: 905596591
+      m_Sprite: {fileID: 2038149791, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2038149791, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_405
+      m_Hash: 50167353
+      m_Sprite: {fileID: 446613333, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 446613333, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_406
+      m_Hash: 468987779
+      m_Sprite: {fileID: -308643728, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -308643728, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_407
+      m_Hash: 754130709
+      m_Sprite: {fileID: -1412057486, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1412057486, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_408
+      m_Hash: 1011614340
+      m_Sprite: {fileID: -468176180, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -468176180, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_409
+      m_Hash: 189477394
+      m_Sprite: {fileID: 287727610, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 287727610, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_410
+      m_Hash: 730643447
+      m_Sprite: {fileID: -1776689979, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1776689979, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_411
+      m_Hash: 478907233
+      m_Sprite: {fileID: 680549479, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 680549479, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_412
+      m_Hash: 92461787
+      m_Sprite: {fileID: 1143399318, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1143399318, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_413
+      m_Hash: 847637069
+      m_Sprite: {fileID: -1589249502, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1589249502, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_414
+      m_Hash: 752975854
+      m_Sprite: {fileID: 1483977170, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1483977170, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_415
+      m_Hash: 468078456
+      m_Sprite: {fileID: -1604787364, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1604787364, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_416
+      m_Hash: 49225410
+      m_Sprite: {fileID: 1743586376, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1743586376, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_417
+      m_Hash: 904408660
+      m_Sprite: {fileID: -723721542, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -723721542, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_418
+      m_Hash: 626471877
+      m_Sprite: {fileID: 1449947534, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1449947534, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_419
+      m_Hash: 307233619
+      m_Sprite: {fileID: -590993587, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -590993587, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_420
+      m_Hash: 10610740
+      m_Sprite: {fileID: -1618054647, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1618054647, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_421
+      m_Hash: 933681314
+      m_Sprite: {fileID: 1993057400, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1993057400, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_422
+      m_Hash: 783255832
+      m_Sprite: {fileID: 1072914752, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1072914752, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_423
+      m_Hash: 430487950
+      m_Sprite: {fileID: -1794521938, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1794521938, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_424
+      m_Hash: 130821165
+      m_Sprite: {fileID: -1562383297, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1562383297, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_425
+      m_Hash: 818617531
+      m_Sprite: {fileID: -769969359, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -769969359, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_426
+      m_Hash: 700599553
+      m_Sprite: {fileID: -1830766673, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1830766673, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_427
+      m_Hash: 516259223
+      m_Sprite: {fileID: 1381033708, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1381033708, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_428
+      m_Hash: 242900998
+      m_Sprite: {fileID: -1718515237, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1718515237, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_429
+      m_Hash: 964513936
+      m_Sprite: {fileID: -667936757, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -667936757, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_430
+      m_Hash: 431675765
+      m_Sprite: {fileID: 629035419, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 629035419, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_431
+      m_Hash: 784198115
+      m_Sprite: {fileID: 1949427233, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1949427233, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_432
+      m_Hash: 934590553
+      m_Sprite: {fileID: 1957074830, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1957074830, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_433
+      m_Hash: 11765967
+      m_Sprite: {fileID: 1350162317, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1350162317, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_434
+      m_Hash: 517414252
+      m_Sprite: {fileID: -1321914669, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1321914669, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_435
+      m_Hash: 701509114
+      m_Sprite: {fileID: -221947765, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -221947765, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_436
+      m_Hash: 819559488
+      m_Sprite: {fileID: 1999269878, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1999269878, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_437
+      m_Hash: 132009174
+      m_Sprite: {fileID: 1850316185, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1850316185, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_438
+      m_Hash: 392253767
+      m_Sprite: {fileID: 1543622386, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1543622386, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_439
+      m_Hash: 543580625
+      m_Sprite: {fileID: -1091919623, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1091919623, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_440
+      m_Hash: 385568690
+      m_Sprite: {fileID: 1384517796, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1384517796, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_441
+      m_Hash: 570195748
+      m_Sprite: {fileID: -628219962, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -628219962, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_442
+      m_Hash: 955592350
+      m_Sprite: {fileID: -1457810384, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1457810384, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_443
+      m_Hash: 267525640
+      m_Sprite: {fileID: 1416662941, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1416662941, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_444
+      m_Hash: 295078827
+      m_Sprite: {fileID: 1628558646, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1628558646, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_445
+      m_Hash: 647084861
+      m_Sprite: {fileID: 2113239390, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2113239390, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_446
+      m_Hash: 1066986119
+      m_Sprite: {fileID: 945794104, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 945794104, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_447
+      m_Hash: 144693777
+      m_Sprite: {fileID: -803538601, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -803538601, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_448
+      m_Hash: 404801408
+      m_Sprite: {fileID: -1953476115, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1953476115, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_449
+      m_Hash: 791148310
+      m_Sprite: {fileID: -386614429, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -386614429, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_450
+      m_Hash: 266370803
+      m_Sprite: {fileID: -323799482, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -323799482, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_451
+      m_Hash: 954682981
+      m_Sprite: {fileID: 1465750839, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1465750839, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_452
+      m_Hash: 569253855
+      m_Sprite: {fileID: -1539671841, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1539671841, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_453
+      m_Hash: 384380745
+      m_Sprite: {fileID: -1182646594, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1182646594, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_454
+      m_Hash: 143506154
+      m_Sprite: {fileID: -1358433536, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1358433536, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_455
+      m_Hash: 1066044028
+      m_Sprite: {fileID: -948376901, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -948376901, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_456
+      m_Hash: 646175686
+      m_Sprite: {fileID: -1470039771, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1470039771, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_457
+      m_Hash: 293923664
+      m_Sprite: {fileID: 134374413, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 134374413, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_458
+      m_Hash: 20707009
+      m_Sprite: {fileID: -1232485478, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1232485478, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_459
+      m_Hash: 909952599
+      m_Sprite: {fileID: -2001381897, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2001381897, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_460
+      m_Hash: 617426224
+      m_Sprite: {fileID: 1541222701, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1541222701, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_461
+      m_Hash: 332012966
+      m_Sprite: {fileID: -2062440445, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2062440445, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_462
+      m_Hash: 180571164
+      m_Sprite: {fileID: 1839941771, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1839941771, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_463
+      m_Hash: 1036287114
+      m_Sprite: {fileID: 1222841881, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1222841881, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_464
+      m_Hash: 597748009
+      m_Sprite: {fileID: -615779810, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -615779810, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_465
+      m_Hash: 346544575
+      m_Sprite: {fileID: 1171564163, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1171564163, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_466
+      m_Hash: 229541893
+      m_Sprite: {fileID: 99842818, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 99842818, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_467
+      m_Hash: 984201363
+      m_Sprite: {fileID: -1932471984, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1932471984, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_468
+      m_Hash: 706127106
+      m_Sprite: {fileID: 631961373, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 631961373, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_469
+      m_Hash: 487691668
+      m_Sprite: {fileID: -1002490172, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1002490172, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_470
+      m_Hash: 1037442161
+      m_Sprite: {fileID: -348553586, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -348553586, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_471
+      m_Hash: 181480679
+      m_Sprite: {fileID: 272289721, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 272289721, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_472
+      m_Hash: 332954973
+      m_Sprite: {fileID: 553684276, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 553684276, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_473
+      m_Hash: 618614219
+      m_Sprite: {fileID: -1171274528, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1171274528, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_474
+      m_Hash: 985389160
+      m_Sprite: {fileID: 1563422815, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1563422815, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_475
+      m_Hash: 230484222
+      m_Sprite: {fileID: 1173849375, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1173849375, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_476
+      m_Hash: 347453764
+      m_Sprite: {fileID: 823612549, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 823612549, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_477
+      m_Hash: 598903250
+      m_Sprite: {fileID: 1500717553, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1500717553, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_478
+      m_Hash: 856527939
+      m_Sprite: {fileID: -327995240, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -327995240, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_479
+      m_Hash: 67806421
+      m_Sprite: {fileID: 202648989, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 202648989, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_480
+      m_Hash: 978190526
+      m_Sprite: {fileID: -481114327, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -481114327, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_481
+      m_Hash: 222900264
+      m_Sprite: {fileID: -204750360, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -204750360, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_482
+      m_Hash: 339763602
+      m_Sprite: {fileID: 1421818107, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1421818107, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_483
+      m_Hash: 591876356
+      m_Sprite: {fileID: -2016358609, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2016358609, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_484
+      m_Hash: 1025754279
+      m_Sprite: {fileID: 491954969, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 491954969, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_485
+      m_Hash: 170193969
+      m_Sprite: {fileID: 719417360, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 719417360, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_486
+      m_Hash: 321758603
+      m_Sprite: {fileID: 448016970, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 448016970, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_487
+      m_Hash: 606770461
+      m_Sprite: {fileID: 338609463, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 338609463, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_488
+      m_Hash: 882215052
+      m_Sprite: {fileID: 419321323, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 419321323, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_489
+      m_Hash: 59947034
+      m_Sprite: {fileID: 192680796, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 192680796, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_490
+      m_Hash: 592785919
+      m_Sprite: {fileID: -348567461, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -348567461, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_491
+      m_Hash: 340918633
+      m_Sprite: {fileID: 1547797991, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1547797991, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_492
+      m_Hash: 224088275
+      m_Sprite: {fileID: -542420064, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -542420064, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_493
+      m_Hash: 979132485
+      m_Sprite: {fileID: 1837628619, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1837628619, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_494
+      m_Hash: 607712742
+      m_Sprite: {fileID: -307019081, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -307019081, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_495
+      m_Hash: 322946416
+      m_Sprite: {fileID: -148571222, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -148571222, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_496
+      m_Hash: 171349194
+      m_Sprite: {fileID: 2128823525, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2128823525, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_497
+      m_Hash: 1026663516
+      m_Sprite: {fileID: 937503870, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 937503870, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_498
+      m_Hash: 764328397
+      m_Sprite: {fileID: -348333006, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -348333006, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_499
+      m_Hash: 445221211
+      m_Sprite: {fileID: -1340037801, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1340037801, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_500
+      m_Hash: 861266049
+      m_Sprite: {fileID: -1760978599, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1760978599, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_501
+      m_Hash: 72536087
+      m_Sprite: {fileID: 2082629614, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2082629614, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_502
+      m_Hash: 492536237
+      m_Sprite: {fileID: 1080388013, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1080388013, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_503
+      m_Hash: 710717755
+      m_Sprite: {fileID: -915546181, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -915546181, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_504
+      m_Hash: 876094616
+      m_Sprite: {fileID: 2092283212, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2092283212, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_505
+      m_Hash: 54465550
+      m_Sprite: {fileID: -2098812088, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2098812088, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_506
+      m_Hash: 439764404
+      m_Sprite: {fileID: 1622698046, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1622698046, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_507
+      m_Hash: 758215970
+      m_Sprite: {fileID: -1866604383, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1866604383, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_508
+      m_Hash: 1032743091
+      m_Sprite: {fileID: 524579241, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 524579241, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_509
+      m_Hash: 176773157
+      m_Sprite: {fileID: -319198495, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -319198495, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_510
+      m_Hash: 709808576
+      m_Sprite: {fileID: 1636802028, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1636802028, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_511
+      m_Hash: 491381078
+      m_Sprite: {fileID: 1948984082, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1948984082, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_512
+      m_Hash: 71348460
+      m_Sprite: {fileID: 970300187, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 970300187, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_513
+      m_Hash: 860323962
+      m_Sprite: {fileID: -127571597, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -127571597, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_514
+      m_Hash: 757274073
+      m_Sprite: {fileID: 937632316, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 937632316, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_515
+      m_Hash: 438576463
+      m_Sprite: {fileID: 54710290, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 54710290, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_516
+      m_Hash: 53310709
+      m_Sprite: {fileID: 567276499, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 567276499, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_517
+      m_Hash: 875185251
+      m_Sprite: {fileID: 1671815528, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1671815528, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_518
+      m_Hash: 613767666
+      m_Sprite: {fileID: -553302608, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -553302608, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_519
+      m_Hash: 328362340
+      m_Sprite: {fileID: -68758827, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -68758827, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_520
+      m_Hash: 23298563
+      m_Sprite: {fileID: -1951970234, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1951970234, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_521
+      m_Hash: 912568981
+      m_Sprite: {fileID: 500026190, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 500026190, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_522
+      m_Hash: 795730735
+      m_Sprite: {fileID: 1291161567, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1291161567, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_523
+      m_Hash: 409654201
+      m_Sprite: {fileID: -2025604519, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2025604519, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_524
+      m_Hash: 101598746
+      m_Sprite: {fileID: 22375612, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 22375612, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_525
+      m_Hash: 822703756
+      m_Sprite: {fileID: 1065240059, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1065240059, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_526
+      m_Hash: 671098678
+      m_Sprite: {fileID: -45013516, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -45013516, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_527
+      m_Hash: 520558496
+      m_Sprite: {fileID: -1595732543, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1595732543, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_528
+      m_Hash: 263719473
+      m_Sprite: {fileID: 1466990421, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1466990421, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_529
+      m_Hash: 952056487
+      m_Sprite: {fileID: -549804493, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -549804493, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_530
+      m_Hash: 410563394
+      m_Sprite: {fileID: -1001791283, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1001791283, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_531
+      m_Hash: 796885972
+      m_Sprite: {fileID: -963620919, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -963620919, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_532
+      m_Hash: 913756782
+      m_Sprite: {fileID: 2054507122, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2054507122, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_533
+      m_Hash: 24240888
+      m_Sprite: {fileID: -1658237110, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1658237110, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_534
+      m_Hash: 521500507
+      m_Sprite: {fileID: 629496595, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 629496595, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_535
+      m_Hash: 672286669
+      m_Sprite: {fileID: -912182233, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -912182233, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_536
+      m_Hash: 823858807
+      m_Sprite: {fileID: -824875060, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -824875060, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_537
+      m_Hash: 102508257
+      m_Sprite: {fileID: 1140515373, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1140515373, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_538
+      m_Hash: 379796336
+      m_Sprite: {fileID: -1009086309, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1009086309, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_539
+      m_Hash: 564399078
+      m_Sprite: {fileID: -1954703418, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1954703418, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_540
+      m_Hash: 389621125
+      m_Sprite: {fileID: -700089704, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -700089704, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_541
+      m_Hash: 540939539
+      m_Sprite: {fileID: 1286784696, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1286784696, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_542
+      m_Hash: 959923369
+      m_Sprite: {fileID: -1367525596, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1367525596, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_543
+      m_Hash: 238056511
+      m_Sprite: {fileID: 2056651996, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2056651996, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_544
+      m_Hash: 273998236
+      m_Sprite: {fileID: 1466729701, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1466729701, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_545
+      m_Hash: 659804426
+      m_Sprite: {fileID: 2023308551, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2023308551, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_546
+      m_Hash: 1046118576
+      m_Sprite: {fileID: -425721552, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -425721552, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_547
+      m_Hash: 157134886
+      m_Sprite: {fileID: 1500155721, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1500155721, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_548
+      m_Hash: 434286007
+      m_Sprite: {fileID: -413031493, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -413031493, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_549
+      m_Hash: 786799905
+      m_Sprite: {fileID: -797242232, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -797242232, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_550
+      m_Hash: 237114564
+      m_Sprite: {fileID: 61877622, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 61877622, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_551
+      m_Hash: 958735442
+      m_Sprite: {fileID: -1736444696, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1736444696, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_552
+      m_Hash: 539784680
+      m_Sprite: {fileID: 1048720199, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1048720199, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_553
+      m_Hash: 388711806
+      m_Sprite: {fileID: -983047744, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -983047744, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_554
+      m_Hash: 156225757
+      m_Sprite: {fileID: 663915954, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 663915954, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_555
+      m_Hash: 1044963403
+      m_Sprite: {fileID: 907420658, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 907420658, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_556
+      m_Hash: 658616817
+      m_Sprite: {fileID: -1469069311, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1469069311, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_557
+      m_Hash: 273056103
+      m_Sprite: {fileID: 2136009625, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2136009625, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_558
+      m_Hash: 16358646
+      m_Sprite: {fileID: 1176294640, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1176294640, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_559
+      m_Hash: 939437152
+      m_Sprite: {fileID: 858507931, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 858507931, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_560
+      m_Hash: 621758215
+      m_Sprite: {fileID: -1928444488, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1928444488, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_561
+      m_Hash: 302544785
+      m_Sprite: {fileID: -1020094835, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1020094835, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_562
+      m_Hash: 184624683
+      m_Sprite: {fileID: 1760571282, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1760571282, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_563
+      m_Hash: 1007031997
+      m_Sprite: {fileID: 1153403622, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1153403622, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_564
+      m_Hash: 576881438
+      m_Sprite: {fileID: -655587212, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -655587212, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_565
+      m_Hash: 358986632
+      m_Sprite: {fileID: -950430017, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -950430017, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_566
+      m_Hash: 208462386
+      m_Sprite: {fileID: -1576425411, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1576425411, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_567
+      m_Hash: 996922020
+      m_Sprite: {fileID: 900711573, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 900711573, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_568
+      m_Hash: 735366965
+      m_Sprite: {fileID: 1814260560, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1814260560, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_569
+      m_Hash: 483655587
+      m_Sprite: {fileID: 1361970323, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1361970323, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_570
+      m_Hash: 1007973958
+      m_Sprite: {fileID: 536080613, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 536080613, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_571
+      m_Hash: 185812688
+      m_Sprite: {fileID: -923572119, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -923572119, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_572
+      m_Hash: 303699818
+      m_Sprite: {fileID: 1217078705, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1217078705, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_573
+      m_Hash: 622667772
+      m_Sprite: {fileID: -586569115, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -586569115, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_574
+      m_Hash: 997831263
+      m_Sprite: {fileID: 1722810473, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1722810473, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_575
+      m_Hash: 209617609
+      m_Sprite: {fileID: -993564468, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -993564468, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_576
+      m_Hash: 360174451
+      m_Sprite: {fileID: -689047748, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -689047748, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_577
+      m_Hash: 577823717
+      m_Sprite: {fileID: -648698280, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -648698280, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_578
+      m_Hash: 852491892
+      m_Sprite: {fileID: 1871965144, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1871965144, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_579
+      m_Hash: 97046242
+      m_Sprite: {fileID: 1759052161, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1759052161, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_580
+      m_Hash: 999058057
+      m_Sprite: {fileID: -812539062, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -812539062, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_581
+      m_Hash: 210459167
+      m_Sprite: {fileID: 437373233, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 437373233, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_582
+      m_Hash: 360844197
+      m_Sprite: {fileID: 1735833433, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1735833433, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_583
+      m_Hash: 579156787
+      m_Sprite: {fileID: 192852646, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 192852646, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_584
+      m_Hash: 1021423248
+      m_Sprite: {fileID: 1656695624, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1656695624, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_585
+      m_Hash: 199663110
+      m_Sprite: {fileID: 445078175, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 445078175, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_586
+      m_Hash: 317706172
+      m_Sprite: {fileID: -1181004363, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1181004363, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_587
+      m_Hash: 636026666
+      m_Sprite: {fileID: 1691290250, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1691290250, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_588
+      m_Hash: 894952123
+      m_Sprite: {fileID: -1039328036, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1039328036, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_589
+      m_Hash: 38851117
+      m_Sprite: {fileID: 1124649644, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1124649644, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_590
+      m_Hash: 580344776
+      m_Sprite: {fileID: 1894570122, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1894570122, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_591
+      m_Hash: 361786206
+      m_Sprite: {fileID: 1050273633, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1050273633, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_592
+      m_Hash: 211368676
+      m_Sprite: {fileID: 1803820849, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1803820849, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_593
+      m_Hash: 1000213106
+      m_Sprite: {fileID: 1097978687, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1097978687, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_594
+      m_Hash: 637181905
+      m_Sprite: {fileID: -902107990, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -902107990, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_595
+      m_Hash: 318615367
+      m_Sprite: {fileID: 1208674563, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1208674563, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_596
+      m_Hash: 200605437
+      m_Sprite: {fileID: -1288810846, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1288810846, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_597
+      m_Hash: 1022611051
+      m_Sprite: {fileID: 1636125330, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1636125330, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_598
+      m_Hash: 743232506
+      m_Sprite: {fileID: 1440529403, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1440529403, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_599
+      m_Hash: 457958252
+      m_Sprite: {fileID: -946598277, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -946598277, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_600
+      m_Hash: 823353048
+      m_Sprite: {fileID: 1234905340, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1234905340, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_601
+      m_Hash: 102002254
+      m_Sprite: {fileID: -1718533681, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1718533681, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_602
+      m_Hash: 522010612
+      m_Sprite: {fileID: -1602905621, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1602905621, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_603
+      m_Hash: 672796514
+      m_Sprite: {fileID: 1583721140, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1583721140, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_604
+      m_Hash: 914266817
+      m_Sprite: {fileID: 2075845363, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2075845363, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_605
+      m_Hash: 24750679
+      m_Sprite: {fileID: -290000712, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -290000712, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_606
+      m_Hash: 410057709
+      m_Sprite: {fileID: -1941404197, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1941404197, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_607
+      m_Hash: 796380027
+      m_Sprite: {fileID: 2007542959, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2007542959, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_608
+      m_Hash: 1070126826
+      m_Sprite: {fileID: 2008218501, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2008218501, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_609
+      m_Hash: 147842684
+      m_Sprite: {fileID: 2061592832, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2061592832, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_610
+      m_Hash: 671641497
+      m_Sprite: {fileID: 1456538344, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1456538344, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_611
+      m_Hash: 521101071
+      m_Sprite: {fileID: -1818769641, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1818769641, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_612
+      m_Hash: 101060277
+      m_Sprite: {fileID: 1418043929, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1418043929, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_613
+      m_Hash: 822165027
+      m_Sprite: {fileID: -70712250, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -70712250, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_614
+      m_Hash: 795192192
+      m_Sprite: {fileID: -10623203, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -10623203, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_615
+      m_Hash: 409115414
+      m_Sprite: {fileID: 523608372, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 523608372, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_616
+      m_Hash: 23841452
+      m_Sprite: {fileID: 1293174657, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1293174657, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_617
+      m_Hash: 913111610
+      m_Sprite: {fileID: -2117073796, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2117073796, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_618
+      m_Hash: 651421611
+      m_Sprite: {fileID: -88166819, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -88166819, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_619
+      m_Hash: 299161405
+      m_Sprite: {fileID: 861840905, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 861840905, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_620
+      m_Hash: 52771930
+      m_Sprite: {fileID: 1353062336, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1353062336, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_621
+      m_Hash: 874646732
+      m_Sprite: {fileID: 544143553, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 544143553, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_622
+      m_Hash: 757816694
+      m_Sprite: {fileID: -1287840140, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1287840140, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_623
+      m_Hash: 439119328
+      m_Sprite: {fileID: -1767145657, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1767145657, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_624
+      m_Hash: 71891011
+      m_Sprite: {fileID: -703389170, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -703389170, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_625
+      m_Hash: 860866773
+      m_Sprite: {fileID: -1666356900, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1666356900, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_626
+      m_Hash: 709269871
+      m_Sprite: {fileID: -326785904, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -326785904, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_627
+      m_Hash: 490842617
+      m_Sprite: {fileID: 799290204, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 799290204, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_628
+      m_Hash: 234796136
+      m_Sprite: {fileID: -944222285, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -944222285, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_629
+      m_Hash: 989431038
+      m_Sprite: {fileID: -239610750, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -239610750, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_630
+      m_Hash: 440274203
+      m_Sprite: {fileID: -1419813364, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1419813364, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_631
+      m_Hash: 758726029
+      m_Sprite: {fileID: -2065298656, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2065298656, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_632
+      m_Hash: 875588663
+      m_Sprite: {fileID: 1264644855, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1264644855, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_633
+      m_Hash: 53959841
+      m_Sprite: {fileID: -102089321, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -102089321, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_634
+      m_Hash: 492030210
+      m_Sprite: {fileID: 820538381, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 820538381, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_635
+      m_Hash: 710211988
+      m_Sprite: {fileID: -1140171359, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1140171359, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_636
+      m_Hash: 861775918
+      m_Sprite: {fileID: 1212496759, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1212496759, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_637
+      m_Hash: 73046200
+      m_Sprite: {fileID: -465850354, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -465850354, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_638
+      m_Hash: 350586153
+      m_Sprite: {fileID: 409108791, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 409108791, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_639
+      m_Hash: 602060223
+      m_Sprite: {fileID: -941845381, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -941845381, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_640
+      m_Hash: 360684508
+      m_Sprite: {fileID: 247870584, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 247870584, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_641
+      m_Hash: 578333514
+      m_Sprite: {fileID: -1940879338, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1940879338, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_642
+      m_Hash: 997325552
+      m_Sprite: {fileID: 1150415404, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1150415404, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_643
+      m_Hash: 209111654
+      m_Sprite: {fileID: 2004431830, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2004431830, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_644
+      m_Hash: 303194053
+      m_Sprite: {fileID: 2136409512, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2136409512, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_645
+      m_Hash: 622161747
+      m_Sprite: {fileID: 1293520334, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1293520334, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_646
+      m_Hash: 1008484073
+      m_Sprite: {fileID: 1883945750, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1883945750, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_647
+      m_Hash: 186322559
+      m_Sprite: {fileID: 1035674069, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1035674069, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_648
+      m_Hash: 463737838
+      m_Sprite: {fileID: 656003659, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 656003659, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_649
+      m_Hash: 748888952
+      m_Sprite: {fileID: 2065501310, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2065501310, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    - m_Name: SNES - Super Mario World - Yoshis Island 1_650
+      m_Hash: 207923869
+      m_Sprite: {fileID: -184838912, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -184838912, guid: d9526dcf125021c46a29df77d7bd713d, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 651
+  m_PrimaryLibraryGUID: 
+  m_ModificationHash: 638331842194130630
+  m_Version: 1

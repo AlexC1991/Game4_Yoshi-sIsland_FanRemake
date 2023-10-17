@@ -1,0 +1,4856 @@
+fileFormatVersion: 2
+guid: d2acfbf24bdfcb041913eb4ee035aba1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 504
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb1de11c35ee98468284e413a78949a
+      internalID: -302000131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 504
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e960c681e7d72a48bcfea8ee277c7e8
+      internalID: 1697593026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 504
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8a8b89c7245324eae13097ccf49f08
+      internalID: 29525878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 504
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b8cd5194e42c649aa1be10944d50ff
+      internalID: -2054639761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 504
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7265db6dfc721aa4db7685dcc9a02f50
+      internalID: 1600574169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 504
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cdee259e2684148a88282d4e5ba8e9
+      internalID: 815202991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_6
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 504
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a81b87216af4c43befe07f2993032b
+      internalID: -1638096221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_7
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 506
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b8f18fcdfee5c4f92f274aeed4ae4e
+      internalID: -141154754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_8
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 505
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35427ae42351d1146bae421351431f32
+      internalID: -290289634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_9
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 504
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bb56eff49a1fa40b45b6cb5ecc6d44
+      internalID: 1005444967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 504
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e480780e302d55f409ee25707e189365
+      internalID: -1429896054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 464
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59b943b151291241b0e3db0ea002a3c
+      internalID: -600301700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 464
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67522869cf9aee41abc4225acc9d759
+      internalID: -43519577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 464
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293901f27ba232642bffb37a4b222d28
+      internalID: 714709435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 464
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f520e794e00706741abb858f01ceaabd
+      internalID: 1238817192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_15
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 464
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de92a6de162861e4e8d70a40712d7738
+      internalID: 173917849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_16
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 464
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935893ca7aeee824bb57e0dafd93e02c
+      internalID: -1386788430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 464
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c57c22b2761364caa1449a5e4c33ef
+      internalID: -2136978642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_18
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 464
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd900b941233a14e9ee7f056da1e7f1
+      internalID: -1295844269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_19
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 464
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9007c7e426a6845b1dd523c5eb61e4
+      internalID: 251120595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_20
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 464
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e3b037391539040ba029ca5207afa9
+      internalID: -127080491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_21
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 464
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d8e68c3bbed0744b49028a14b3b825
+      internalID: 1355541069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 424
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef655feff9e3e514eb2cfd8eff4a6ff8
+      internalID: -203921632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_23
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 424
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddcbadc8a9004049bd22a480cf9265a
+      internalID: 58892514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 424
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25c8fba11935a742b54ce6931bd1042
+      internalID: 945880529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_25
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 424
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ab39812df097245a85861ca9013e95
+      internalID: 1124672300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_26
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 424
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012e07c8bf17ab44fbbdcf37e60c8c76
+      internalID: 624050878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_27
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 424
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362e8caceaf2bb34680e6cc98ecdcd46
+      internalID: 598773919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_28
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 426
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5311e7cd2cff61b418488bb13335d65c
+      internalID: 800551533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_29
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 425
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd3bb88ac1133841a6217c6f3ec4a2c
+      internalID: 1552757373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_30
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 424
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e16795007fa8947bf029ce49c060ce
+      internalID: 815570342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_31
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 384
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b77949081279414b82fb1707d40575c
+      internalID: 1548452726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_32
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 384
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e8941b107ef7444986b6c98352f37e
+      internalID: -721045828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_33
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 384
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bf09ded823ff6429feb891bcdb5fb0
+      internalID: -519507228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_34
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 384
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023047e41b9dc804a82c8b77eb3966d0
+      internalID: 1786805717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_35
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 384
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3428f91f0d41da47907beee1316684d
+      internalID: -1153055158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_36
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 384
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880b43bdd80f6074ebe87248cd2ea379
+      internalID: -689677617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_37
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 386
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687a16d973b8e4d40b9431e71b552eb5
+      internalID: 1786732704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_38
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 385
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c31a4d102f0a934093fa1bfac81346a
+      internalID: 2050777833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_39
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 384
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592720747b97aa64698f79828331476d
+      internalID: 489197216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_40
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 344
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce2f0e7e68dccb4f87496cf5a3c6b74
+      internalID: -2074010215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_41
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 344
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595b9bc7a9d230040bb80dd8c1976f74
+      internalID: -339119697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_42
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 344
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5bf221e0cd18b4bbae5a498b833c80
+      internalID: -1646728235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_43
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 344
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3237fdf3bed42fa48a9cf4815f58d463
+      internalID: -369409039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_44
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 344
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10f94f4b8176f64a9e28bbe46bbcb84
+      internalID: -665500553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_45
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 344
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8b46d093479f543a90a06f4616e51b
+      internalID: 2131255354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_46
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 346
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc48929a270d62846a431bfae55efd44
+      internalID: -1073349011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_47
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 345
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd206bddc6ae6a04485719685ba31de4
+      internalID: 501076994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_48
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 344
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c511215d0a827ad4f83e38320eb03939
+      internalID: -830479209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_49
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 304
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92676bd74d7ef44b8de77de92ac3313
+      internalID: -237531296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_50
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 304
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b925bfe258732458f054a008c766d9
+      internalID: 1500767037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_51
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 304
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e8c8b9c2a689f4d99e3c70f09ef3a5
+      internalID: -314316409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_52
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 304
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41ce03c1400ca241b173b3114b9510b
+      internalID: -1567598231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_53
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 304
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d02b0b3bc066f74e9b774926fedd512
+      internalID: 330785923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_54
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 304
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8d4b8a8ef0e5f4bacc4fa43924a750
+      internalID: -891425543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_55
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 306
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f59f2badcf9364682d3dc35320032d
+      internalID: 1186373138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_56
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 305
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a103aa8bdc077804982c9ecc081a560a
+      internalID: -2063346222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_57
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 304
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bdaddb316b68749b36e234c82ca8e0
+      internalID: 1478222212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_58
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 264
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f124c7d44912801499588a348a790177
+      internalID: 478411378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_59
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 264
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1849bb557b386624cbafa4e10ae63aad
+      internalID: -130307370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_60
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 264
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d88579e6a34ec441bdd2616f6433209
+      internalID: -5293012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_61
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 264
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30a045cc0c5ceb4ea89f416602dfe69
+      internalID: -957396353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_62
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 264
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c669c6772b70dc44593f7b396516c84b
+      internalID: 1100063569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_63
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 264
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df01132cc176beb44ae0b29b3d304532
+      internalID: -1081160654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_64
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 266
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2154a7cea93d04687d6a1bdd6331a3
+      internalID: -2103869265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_65
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 265
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491939eea137f0247a0d43da29b5674f
+      internalID: 1992845375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_66
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 264
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65abd23218bb3146836e3d94f89c8cb
+      internalID: 719594788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_67
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 224
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baeb2e8635da4940889672c586023ee
+      internalID: 135956762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_68
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 224
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78b70265d446a24e8233c9a651f939e
+      internalID: 534562986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_69
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 224
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6362fde840901dd4a9237c8bc152259e
+      internalID: 342572244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_70
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 224
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077039eb0a6132e44bbce9a6099e865e
+      internalID: -1682045564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_71
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 224
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b970d344fba7144e8bc4069c5bd2179
+      internalID: -1954878305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_72
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 224
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6697fcb7e3288a340a33bc733cb25931
+      internalID: 719986803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_73
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 226
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8544aa6c0fe6bec44aa627d7d667460b
+      internalID: -202988111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_74
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 225
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75d9b3a32c4fd74c9fd86be41c2d256
+      internalID: -1068026329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_75
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 224
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3f6593d20b92d468f1aa33390519c7
+      internalID: -134753834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_76
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 184
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfac8ebc480d8c47973bbb115d7ab0d
+      internalID: 1135883319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_77
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 184
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563226ead7a278945a2e4b55f3374ed6
+      internalID: -1766002870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_78
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 184
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c974c5c357b0ad14ea472e163d725b26
+      internalID: -1356603460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_79
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 184
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26ee12adbac91c4f842c04450e95c7d
+      internalID: -462545815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_80
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 184
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3916ace304f93644a98e2e91e7246584
+      internalID: 59619811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_81
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 184
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23eb8bacbdef571418f45c035f48ae2e
+      internalID: -16972647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 183
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede796de5109d204a9c2e57a8f63ecbd
+      internalID: 746242353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_83
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 184
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dae4a8cf2c09854380af5dc4b83a7c6
+      internalID: -700238005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_84
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 184
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa049407b0778942b96dbafe8c740fd
+      internalID: 469684939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_85
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 184
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b83b9da43863f84ab9c94cc2274d81b
+      internalID: 1867182305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_86
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 184
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e78fda860011434797bc95b5f8b4dc8
+      internalID: 1161033066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_87
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 156
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04a600a053c6724a833518ccef5f7b9
+      internalID: 1502509493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_88
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 156
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c070add9ab4d74e9decf2dbad91942
+      internalID: 1169491110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_89
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 160
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46938cfaf6cc4a94d8fb73a321cc51a3
+      internalID: 218161816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_90
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 160
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c93a8dd9ed104a438a70c62aa360919
+      internalID: -998308388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_91
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 144
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c56ee7f00b217c42911f263b854b76a
+      internalID: 1543478626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_92
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 144
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f3d8cc22e748d4da3c4f0f9f34cd8d
+      internalID: 823262617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_93
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 144
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd600838be8ebf84187269bcef20f9fa
+      internalID: -662266529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_94
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 144
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86c3a8c5c30e65489f2fd0ce8e51178
+      internalID: 474655245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_95
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 144
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1468998c90fc9b54fa7025e09d104546
+      internalID: 1776112070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_96
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 144
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41002b1e201b1840b4d76719fd38508
+      internalID: -1419168548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_97
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 144
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6df26ebed8024747972eb0ff56f0a5c
+      internalID: 1037088915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_98
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 144
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fcdd1cdb82e2e4dbf3bb4e5025b0f0
+      internalID: -655193433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_99
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebce61f89d55cba4d9a55160649b7a2c
+      internalID: 1884259024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_100
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa7155141593cf40b903f88cd55f23c
+      internalID: 1636452265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_101
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43011c88a28bd504f9d20f768f5d60e2
+      internalID: -76005651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_102
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d03445ef38b1d41a00745d55454b86
+      internalID: 1565832067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_103
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 144
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c719929900960f94ebe23ce41c6021b6
+      internalID: 186426427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_104
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb62d19fc0721f4cb4000dc73fb048e
+      internalID: 1413820144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_105
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c5f787907d2db4582a89e6eafbe0b1
+      internalID: -59133772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_106
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82033b6cb51a8cb4faa49509f34e392d
+      internalID: -178881017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_107
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 120
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ec25a139fd9bc41b33d5ad1b699b72
+      internalID: 688171910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_108
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 120
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2597518ff9b02a748b1d71ff23cea649
+      internalID: 350929863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_109
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4f33bf9bb636c4795270ae053a7f5d
+      internalID: -1343159968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_110
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fe2cc85094c4e45b5f60d621b3d2b2
+      internalID: 324614651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_111
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52e1833a05312045b2c63bd7303a7e2
+      internalID: -1923395613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_112
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407c4c18b6fe9cf4b8795aaaad4bea25
+      internalID: -868720606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 114
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5e48badcc9b1b4e84931a4dffcb437
+      internalID: -853313261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_114
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 88
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8af47132e44504caf86a9875b82e22
+      internalID: 1250396504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_115
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 89
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80e5cc3bbec698429ad29de2c72c1cb
+      internalID: 927426237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_116
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 89
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa997f287c63e241a9da3714ae6cd28
+      internalID: 1295885067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_117
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 89
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4556d58eb8b274fa96f97ce3b37583
+      internalID: -2120008449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_118
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 89
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a1691d38b9e2441b05807d4d896dee
+      internalID: -220063965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_119
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 89
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc8cffa42e2a624cb494267a0f279dc
+      internalID: -592453211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_120
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 89
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23849fd8e8f3b8c428b7811b1d9bbf2e
+      internalID: 1500481775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_121
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 48
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4bc2b03c673a44fbe681f5259ff458
+      internalID: -247109926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_122
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34da595ae47feda48a49e4480be4f949
+      internalID: -1655793495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_123
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 66
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b9b105c7a66f346ad3edd28278ee7e
+      internalID: -1440824631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_124
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 66
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef6ed1ab846a7c40b729193947e65e5
+      internalID: 504127567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_125
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 66
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4df50352005281449462ef6e758fe3c
+      internalID: 1949938388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_126
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 66
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58976fbbd24dd2546bc4dc983008e59a
+      internalID: -1566060735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_127
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 48
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e15bdceb03899f4297bea7fa97c7d0f
+      internalID: 944894176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_128
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee840e00d1c66324aaa573d6532d54bb
+      internalID: 2024744404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_129
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 49
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1242b24ad74ea53498bc0e9bda568da0
+      internalID: 1768812776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_130
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 49
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70292c47b8e7cd4bb21fa0e4f2dbb17
+      internalID: 1031892419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_131
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 49
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90afde6495800c64ca30a79cd84cde41
+      internalID: 1736979037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_132
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 49
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcba44896bab07845bf29c8c9fe662ba
+      internalID: 323241047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_133
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 49
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcad3b6488092945b19a68540c53a33
+      internalID: 945310086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_134
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 49
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62e7a8f37abc554ebbac23b9263cbfd
+      internalID: -151095440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_135
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 49
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f35c68fb077f24aacec4bed234c901
+      internalID: 1714761233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_136
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 49
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04d1b6cc2599524b95f7ebc715f9c97
+      internalID: 1217984638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_137
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 41
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e8bd2736afbe24582928e4c4c7dfbd
+      internalID: 298091835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_138
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 49
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffc02c6bb90ba1469457d2a99bd9d9c
+      internalID: -1239087581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_139
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 49
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1ab6ba25efabb499eedbc5ec3084ad
+      internalID: -1034872758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_140
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 49
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012113c319a093a4d8c6536d23614162
+      internalID: -248933006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_141
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 49
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460b36ce52a2da34f812003f7a25c762
+      internalID: 185558893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_142
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 49
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282f55ac25697614d9ef60afe43b1a1a
+      internalID: -1833091329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_143
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 40
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4234aeed9017c94a96b7b9e46b70d36
+      internalID: 2121698690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_144
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 49
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1505d1a6e1c40884c8f236ec5e548291
+      internalID: -1198255670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_145
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 49
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9961e22e3ae05854d85c0d40b7eed0ac
+      internalID: -451839940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_146
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 49
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e424e81800a08374c8a3cc832b0ed3e5
+      internalID: 1962810104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_147
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 49
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811c0854e61c2de40b18c298e119abe4
+      internalID: -593134840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_148
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 48
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44eaec088c46aca489e4907f85a45706
+      internalID: -1764822692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_149
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 41
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f443a058e3e2bf4eb935d029987770f
+      internalID: -538904553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_150
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 41
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea177a170061b54599d3d9e0e63430e
+      internalID: 743034238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_151
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 41
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85641f08a2a5004a83526b7fcd99933
+      internalID: 1036109332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_152
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbf1a7a2d2ddb94b9787ad662d03350
+      internalID: 1425126713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_153
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 41
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed4a45680d134342995496b3a9012b9
+      internalID: -1166022686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_154
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 33
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b59f2418fd0ee419c7c7bd8c96cbe6
+      internalID: -797742124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_155
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 41
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3e410660e3cf14b8cd4e40dc2d660c
+      internalID: 148153791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_156
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 41
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e409d656812515f45b88164a98f78aa8
+      internalID: 116896846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_157
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 41
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f69526656fa5534ab6026db7904bc04
+      internalID: 1378659126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_158
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 41
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3902ecd4e8cd00d4da3868c266a4f847
+      internalID: 86245134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_159
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 41
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3491a2183b3dbb741a63acb12c72b63a
+      internalID: -1943409181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_160
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5693bdc20fece744ea878a7bed8e1ef3
+      internalID: -1868951607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_161
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 8
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58ecd5a7e5fcd745b94e3899b8fc6f5
+      internalID: 377337099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_162
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 33
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfb14a6595209644b201f6a1094a5f3
+      internalID: -1958407163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_163
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1a9c5cf72998c4c8e13d2952b4035b
+      internalID: -1130660088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_164
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45db9f5d65742c478f8b166e57804dc
+      internalID: 1634853577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_165
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 33
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b23d10407c104c4790dccf53ca86b87
+      internalID: 596778344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_166
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f5c915771a19345a3f95e729588dc4
+      internalID: 586896188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_167
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 32
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27a579bdf1f6cf48865e157d6f9e621
+      internalID: -1362873125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_168
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18160971fd1c74e479480f532889f8ba
+      internalID: 901431067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_169
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 33
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b7721d7c0e4dd4a8aba639578947b5
+      internalID: -788502599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_170
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 32
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3098a13cb494ff948847d8238610c8a6
+      internalID: -1498166900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_171
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2610692544ab32945b6751a537f61ae0
+      internalID: -2024620028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_172
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 8
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6026939ded2d12b41a23d23873485b76
+      internalID: 2076995466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_173
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 25
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99c2a5e573c59642962c59699ad0439
+      internalID: 1470334357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_174
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 25
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd16ed6bcb8e2d2449d864bd35e27715
+      internalID: 2117494183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_175
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8857dc847705e34438c10a352abde0f6
+      internalID: -376402318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_176
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 25
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9918f3fd7a4af2442bb9df6065623084
+      internalID: 1867009918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_177
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 25
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482f702c431762149a69c013b0cbf5a7
+      internalID: -683452770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_178
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 25
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adeb3d96444e3e04496d236f1296f956
+      internalID: 1520754019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_179
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bc0ce6bd8597c4982ec95a1a89f9d3
+      internalID: 2092792597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_180
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 25
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8630e5a4b7cb64abd3b97935e59007
+      internalID: 614700207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_181
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 25
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3645111a4d845dd4c9d333082ddff408
+      internalID: 1993540477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd328d06f9666c4daceabbea7f078fe
+      internalID: 1759343682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_183
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 25
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e9a5d9b06f66447988b870afa9d664
+      internalID: -1667925785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_184
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 25
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8574eb7022e2b74d879a7bc3ac8aa6a
+      internalID: -877336159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_185
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 24
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72499eb3062b5224f91acb8de105e9f5
+      internalID: 2146229598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_186
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13487351fa798e449bd275918af632ae
+      internalID: -1049515425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_187
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 25
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66498dbe947f694891211539ff311eb
+      internalID: -312182162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_188
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 25
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a827031413bc3f24285b5769f01c39b8
+      internalID: -1146439906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_189
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 25
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6648c6e278865045a50ba30a5817315
+      internalID: -1838225278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_190
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 25
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1de3dc053a6ad48ae4433c3a858dd4
+      internalID: -1763878882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_191
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 25
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4686b60c6b723fb4c8d45b5950aa6ab4
+      internalID: -911147461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_192
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 25
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d8f672d72f36d4fb1da4369181a80f
+      internalID: 1187138008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_193
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 25
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78d8f9e7161aea4f8c8a6a54836aa3f
+      internalID: 1085119374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_194
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 25
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2d9dda345c5114d9a016b3f8c8bbab
+      internalID: 1452074710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_195
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 9
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ff8bf649047534db5192280d357a8f
+      internalID: 288427132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_196
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 9
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8c572eba5377240a6e38920518dfa5
+      internalID: -18433602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_197
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52363f7421c3caa46ad8ab6971b6e7fc
+      internalID: 1578182570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_198
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbd6b93c6aa92649b9b62dbd03aa0f8
+      internalID: 1395929564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_199
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4969da1d905824db6fdfe7f3fcd879
+      internalID: -978689834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_200
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6d6500b50a23e408db5b2e9366825b
+      internalID: 93118477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_201
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 9
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15f1f88cff14d147a3eb9b5198b19d4
+      internalID: -1074981504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_202
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 9
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6f6dbf40a5377449af6e117ce6be7e
+      internalID: -365853861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_203
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ff30e8dad91b641b40fe43647228c6
+      internalID: 1824701469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_204
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 9
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe853159f8c85dd49828e97f1a8c5857
+      internalID: 842498064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_205
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 9
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cf8ca51260542498a56f16479517ee
+      internalID: 2143545174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_206
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2916ec1cf9c3cc41a8d4a9aa65c0ad7
+      internalID: -1915961996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_207
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5245894c6945a4d4baddfa97bdf81aea
+      internalID: -77651205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_208
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5ca03d1166e31419d1af75f72fa5a3
+      internalID: -1629850734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_209
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95969c690d6a2134e9eaf824a7ef9e4e
+      internalID: 830959737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_210
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818a7a7a2e6494f438a125824f83f003
+      internalID: 1131824937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Yoshi Customs - Yoshi_211
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 9
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63b858e92e667f42b60a105eeb225e7
+      internalID: -1964686153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Yoshi Customs - Yoshi_0: -302000131
+      Custom Edited - Yoshi Customs - Yoshi_1: 1697593026
+      Custom Edited - Yoshi Customs - Yoshi_10: -1429896054
+      Custom Edited - Yoshi Customs - Yoshi_100: 1636452265
+      Custom Edited - Yoshi Customs - Yoshi_101: -76005651
+      Custom Edited - Yoshi Customs - Yoshi_102: 1565832067
+      Custom Edited - Yoshi Customs - Yoshi_103: 186426427
+      Custom Edited - Yoshi Customs - Yoshi_104: 1413820144
+      Custom Edited - Yoshi Customs - Yoshi_105: -59133772
+      Custom Edited - Yoshi Customs - Yoshi_106: -178881017
+      Custom Edited - Yoshi Customs - Yoshi_107: 688171910
+      Custom Edited - Yoshi Customs - Yoshi_108: 350929863
+      Custom Edited - Yoshi Customs - Yoshi_109: -1343159968
+      Custom Edited - Yoshi Customs - Yoshi_11: -600301700
+      Custom Edited - Yoshi Customs - Yoshi_110: 324614651
+      Custom Edited - Yoshi Customs - Yoshi_111: -1923395613
+      Custom Edited - Yoshi Customs - Yoshi_112: -868720606
+      Custom Edited - Yoshi Customs - Yoshi_113: -853313261
+      Custom Edited - Yoshi Customs - Yoshi_114: 1250396504
+      Custom Edited - Yoshi Customs - Yoshi_115: 927426237
+      Custom Edited - Yoshi Customs - Yoshi_116: 1295885067
+      Custom Edited - Yoshi Customs - Yoshi_117: -2120008449
+      Custom Edited - Yoshi Customs - Yoshi_118: -220063965
+      Custom Edited - Yoshi Customs - Yoshi_119: -592453211
+      Custom Edited - Yoshi Customs - Yoshi_12: -43519577
+      Custom Edited - Yoshi Customs - Yoshi_120: 1500481775
+      Custom Edited - Yoshi Customs - Yoshi_121: -247109926
+      Custom Edited - Yoshi Customs - Yoshi_122: -1655793495
+      Custom Edited - Yoshi Customs - Yoshi_123: -1440824631
+      Custom Edited - Yoshi Customs - Yoshi_124: 504127567
+      Custom Edited - Yoshi Customs - Yoshi_125: 1949938388
+      Custom Edited - Yoshi Customs - Yoshi_126: -1566060735
+      Custom Edited - Yoshi Customs - Yoshi_127: 944894176
+      Custom Edited - Yoshi Customs - Yoshi_128: 2024744404
+      Custom Edited - Yoshi Customs - Yoshi_129: 1768812776
+      Custom Edited - Yoshi Customs - Yoshi_13: 714709435
+      Custom Edited - Yoshi Customs - Yoshi_130: 1031892419
+      Custom Edited - Yoshi Customs - Yoshi_131: 1736979037
+      Custom Edited - Yoshi Customs - Yoshi_132: 323241047
+      Custom Edited - Yoshi Customs - Yoshi_133: 945310086
+      Custom Edited - Yoshi Customs - Yoshi_134: -151095440
+      Custom Edited - Yoshi Customs - Yoshi_135: 1714761233
+      Custom Edited - Yoshi Customs - Yoshi_136: 1217984638
+      Custom Edited - Yoshi Customs - Yoshi_137: 298091835
+      Custom Edited - Yoshi Customs - Yoshi_138: -1239087581
+      Custom Edited - Yoshi Customs - Yoshi_139: -1034872758
+      Custom Edited - Yoshi Customs - Yoshi_14: 1238817192
+      Custom Edited - Yoshi Customs - Yoshi_140: -248933006
+      Custom Edited - Yoshi Customs - Yoshi_141: 185558893
+      Custom Edited - Yoshi Customs - Yoshi_142: -1833091329
+      Custom Edited - Yoshi Customs - Yoshi_143: 2121698690
+      Custom Edited - Yoshi Customs - Yoshi_144: -1198255670
+      Custom Edited - Yoshi Customs - Yoshi_145: -451839940
+      Custom Edited - Yoshi Customs - Yoshi_146: 1962810104
+      Custom Edited - Yoshi Customs - Yoshi_147: -593134840
+      Custom Edited - Yoshi Customs - Yoshi_148: -1764822692
+      Custom Edited - Yoshi Customs - Yoshi_149: -538904553
+      Custom Edited - Yoshi Customs - Yoshi_15: 173917849
+      Custom Edited - Yoshi Customs - Yoshi_150: 743034238
+      Custom Edited - Yoshi Customs - Yoshi_151: 1036109332
+      Custom Edited - Yoshi Customs - Yoshi_152: 1425126713
+      Custom Edited - Yoshi Customs - Yoshi_153: -1166022686
+      Custom Edited - Yoshi Customs - Yoshi_154: -797742124
+      Custom Edited - Yoshi Customs - Yoshi_155: 148153791
+      Custom Edited - Yoshi Customs - Yoshi_156: 116896846
+      Custom Edited - Yoshi Customs - Yoshi_157: 1378659126
+      Custom Edited - Yoshi Customs - Yoshi_158: 86245134
+      Custom Edited - Yoshi Customs - Yoshi_159: -1943409181
+      Custom Edited - Yoshi Customs - Yoshi_16: -1386788430
+      Custom Edited - Yoshi Customs - Yoshi_160: -1868951607
+      Custom Edited - Yoshi Customs - Yoshi_161: 377337099
+      Custom Edited - Yoshi Customs - Yoshi_162: -1958407163
+      Custom Edited - Yoshi Customs - Yoshi_163: -1130660088
+      Custom Edited - Yoshi Customs - Yoshi_164: 1634853577
+      Custom Edited - Yoshi Customs - Yoshi_165: 596778344
+      Custom Edited - Yoshi Customs - Yoshi_166: 586896188
+      Custom Edited - Yoshi Customs - Yoshi_167: -1362873125
+      Custom Edited - Yoshi Customs - Yoshi_168: 901431067
+      Custom Edited - Yoshi Customs - Yoshi_169: -788502599
+      Custom Edited - Yoshi Customs - Yoshi_17: -2136978642
+      Custom Edited - Yoshi Customs - Yoshi_170: -1498166900
+      Custom Edited - Yoshi Customs - Yoshi_171: -2024620028
+      Custom Edited - Yoshi Customs - Yoshi_172: 2076995466
+      Custom Edited - Yoshi Customs - Yoshi_173: 1470334357
+      Custom Edited - Yoshi Customs - Yoshi_174: 2117494183
+      Custom Edited - Yoshi Customs - Yoshi_175: -376402318
+      Custom Edited - Yoshi Customs - Yoshi_176: 1867009918
+      Custom Edited - Yoshi Customs - Yoshi_177: -683452770
+      Custom Edited - Yoshi Customs - Yoshi_178: 1520754019
+      Custom Edited - Yoshi Customs - Yoshi_179: 2092792597
+      Custom Edited - Yoshi Customs - Yoshi_18: -1295844269
+      Custom Edited - Yoshi Customs - Yoshi_180: 614700207
+      Custom Edited - Yoshi Customs - Yoshi_181: 1993540477
+      Custom Edited - Yoshi Customs - Yoshi_182: 1759343682
+      Custom Edited - Yoshi Customs - Yoshi_183: -1667925785
+      Custom Edited - Yoshi Customs - Yoshi_184: -877336159
+      Custom Edited - Yoshi Customs - Yoshi_185: 2146229598
+      Custom Edited - Yoshi Customs - Yoshi_186: -1049515425
+      Custom Edited - Yoshi Customs - Yoshi_187: -312182162
+      Custom Edited - Yoshi Customs - Yoshi_188: -1146439906
+      Custom Edited - Yoshi Customs - Yoshi_189: -1838225278
+      Custom Edited - Yoshi Customs - Yoshi_19: 251120595
+      Custom Edited - Yoshi Customs - Yoshi_190: -1763878882
+      Custom Edited - Yoshi Customs - Yoshi_191: -911147461
+      Custom Edited - Yoshi Customs - Yoshi_192: 1187138008
+      Custom Edited - Yoshi Customs - Yoshi_193: 1085119374
+      Custom Edited - Yoshi Customs - Yoshi_194: 1452074710
+      Custom Edited - Yoshi Customs - Yoshi_195: 288427132
+      Custom Edited - Yoshi Customs - Yoshi_196: -18433602
+      Custom Edited - Yoshi Customs - Yoshi_197: 1578182570
+      Custom Edited - Yoshi Customs - Yoshi_198: 1395929564
+      Custom Edited - Yoshi Customs - Yoshi_199: -978689834
+      Custom Edited - Yoshi Customs - Yoshi_2: 29525878
+      Custom Edited - Yoshi Customs - Yoshi_20: -127080491
+      Custom Edited - Yoshi Customs - Yoshi_200: 93118477
+      Custom Edited - Yoshi Customs - Yoshi_201: -1074981504
+      Custom Edited - Yoshi Customs - Yoshi_202: -365853861
+      Custom Edited - Yoshi Customs - Yoshi_203: 1824701469
+      Custom Edited - Yoshi Customs - Yoshi_204: 842498064
+      Custom Edited - Yoshi Customs - Yoshi_205: 2143545174
+      Custom Edited - Yoshi Customs - Yoshi_206: -1915961996
+      Custom Edited - Yoshi Customs - Yoshi_207: -77651205
+      Custom Edited - Yoshi Customs - Yoshi_208: -1629850734
+      Custom Edited - Yoshi Customs - Yoshi_209: 830959737
+      Custom Edited - Yoshi Customs - Yoshi_21: 1355541069
+      Custom Edited - Yoshi Customs - Yoshi_210: 1131824937
+      Custom Edited - Yoshi Customs - Yoshi_211: -1964686153
+      Custom Edited - Yoshi Customs - Yoshi_22: -203921632
+      Custom Edited - Yoshi Customs - Yoshi_23: 58892514
+      Custom Edited - Yoshi Customs - Yoshi_24: 945880529
+      Custom Edited - Yoshi Customs - Yoshi_25: 1124672300
+      Custom Edited - Yoshi Customs - Yoshi_26: 624050878
+      Custom Edited - Yoshi Customs - Yoshi_27: 598773919
+      Custom Edited - Yoshi Customs - Yoshi_28: 800551533
+      Custom Edited - Yoshi Customs - Yoshi_29: 1552757373
+      Custom Edited - Yoshi Customs - Yoshi_3: -2054639761
+      Custom Edited - Yoshi Customs - Yoshi_30: 815570342
+      Custom Edited - Yoshi Customs - Yoshi_31: 1548452726
+      Custom Edited - Yoshi Customs - Yoshi_32: -721045828
+      Custom Edited - Yoshi Customs - Yoshi_33: -519507228
+      Custom Edited - Yoshi Customs - Yoshi_34: 1786805717
+      Custom Edited - Yoshi Customs - Yoshi_35: -1153055158
+      Custom Edited - Yoshi Customs - Yoshi_36: -689677617
+      Custom Edited - Yoshi Customs - Yoshi_37: 1786732704
+      Custom Edited - Yoshi Customs - Yoshi_38: 2050777833
+      Custom Edited - Yoshi Customs - Yoshi_39: 489197216
+      Custom Edited - Yoshi Customs - Yoshi_4: 1600574169
+      Custom Edited - Yoshi Customs - Yoshi_40: -2074010215
+      Custom Edited - Yoshi Customs - Yoshi_41: -339119697
+      Custom Edited - Yoshi Customs - Yoshi_42: -1646728235
+      Custom Edited - Yoshi Customs - Yoshi_43: -369409039
+      Custom Edited - Yoshi Customs - Yoshi_44: -665500553
+      Custom Edited - Yoshi Customs - Yoshi_45: 2131255354
+      Custom Edited - Yoshi Customs - Yoshi_46: -1073349011
+      Custom Edited - Yoshi Customs - Yoshi_47: 501076994
+      Custom Edited - Yoshi Customs - Yoshi_48: -830479209
+      Custom Edited - Yoshi Customs - Yoshi_49: -237531296
+      Custom Edited - Yoshi Customs - Yoshi_5: 815202991
+      Custom Edited - Yoshi Customs - Yoshi_50: 1500767037
+      Custom Edited - Yoshi Customs - Yoshi_51: -314316409
+      Custom Edited - Yoshi Customs - Yoshi_52: -1567598231
+      Custom Edited - Yoshi Customs - Yoshi_53: 330785923
+      Custom Edited - Yoshi Customs - Yoshi_54: -891425543
+      Custom Edited - Yoshi Customs - Yoshi_55: 1186373138
+      Custom Edited - Yoshi Customs - Yoshi_56: -2063346222
+      Custom Edited - Yoshi Customs - Yoshi_57: 1478222212
+      Custom Edited - Yoshi Customs - Yoshi_58: 478411378
+      Custom Edited - Yoshi Customs - Yoshi_59: -130307370
+      Custom Edited - Yoshi Customs - Yoshi_6: -1638096221
+      Custom Edited - Yoshi Customs - Yoshi_60: -5293012
+      Custom Edited - Yoshi Customs - Yoshi_61: -957396353
+      Custom Edited - Yoshi Customs - Yoshi_62: 1100063569
+      Custom Edited - Yoshi Customs - Yoshi_63: -1081160654
+      Custom Edited - Yoshi Customs - Yoshi_64: -2103869265
+      Custom Edited - Yoshi Customs - Yoshi_65: 1992845375
+      Custom Edited - Yoshi Customs - Yoshi_66: 719594788
+      Custom Edited - Yoshi Customs - Yoshi_67: 135956762
+      Custom Edited - Yoshi Customs - Yoshi_68: 534562986
+      Custom Edited - Yoshi Customs - Yoshi_69: 342572244
+      Custom Edited - Yoshi Customs - Yoshi_7: -141154754
+      Custom Edited - Yoshi Customs - Yoshi_70: -1682045564
+      Custom Edited - Yoshi Customs - Yoshi_71: -1954878305
+      Custom Edited - Yoshi Customs - Yoshi_72: 719986803
+      Custom Edited - Yoshi Customs - Yoshi_73: -202988111
+      Custom Edited - Yoshi Customs - Yoshi_74: -1068026329
+      Custom Edited - Yoshi Customs - Yoshi_75: -134753834
+      Custom Edited - Yoshi Customs - Yoshi_76: 1135883319
+      Custom Edited - Yoshi Customs - Yoshi_77: -1766002870
+      Custom Edited - Yoshi Customs - Yoshi_78: -1356603460
+      Custom Edited - Yoshi Customs - Yoshi_79: -462545815
+      Custom Edited - Yoshi Customs - Yoshi_8: -290289634
+      Custom Edited - Yoshi Customs - Yoshi_80: 59619811
+      Custom Edited - Yoshi Customs - Yoshi_81: -16972647
+      Custom Edited - Yoshi Customs - Yoshi_82: 746242353
+      Custom Edited - Yoshi Customs - Yoshi_83: -700238005
+      Custom Edited - Yoshi Customs - Yoshi_84: 469684939
+      Custom Edited - Yoshi Customs - Yoshi_85: 1867182305
+      Custom Edited - Yoshi Customs - Yoshi_86: 1161033066
+      Custom Edited - Yoshi Customs - Yoshi_87: 1502509493
+      Custom Edited - Yoshi Customs - Yoshi_88: 1169491110
+      Custom Edited - Yoshi Customs - Yoshi_89: 218161816
+      Custom Edited - Yoshi Customs - Yoshi_9: 1005444967
+      Custom Edited - Yoshi Customs - Yoshi_90: -998308388
+      Custom Edited - Yoshi Customs - Yoshi_91: 1543478626
+      Custom Edited - Yoshi Customs - Yoshi_92: 823262617
+      Custom Edited - Yoshi Customs - Yoshi_93: -662266529
+      Custom Edited - Yoshi Customs - Yoshi_94: 474655245
+      Custom Edited - Yoshi Customs - Yoshi_95: 1776112070
+      Custom Edited - Yoshi Customs - Yoshi_96: -1419168548
+      Custom Edited - Yoshi Customs - Yoshi_97: 1037088915
+      Custom Edited - Yoshi Customs - Yoshi_98: -655193433
+      Custom Edited - Yoshi Customs - Yoshi_99: 1884259024
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
