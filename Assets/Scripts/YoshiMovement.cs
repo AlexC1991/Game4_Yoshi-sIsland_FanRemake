@@ -14,12 +14,15 @@ namespace AlexzanderCowell
         [SerializeField] private float gravity;
         private float horizontalMovement;
         private float verticalMovement;
-        private bool runningNow;
-        private bool jumpingNow;
+        public static bool runningNow;
+        public static bool jumpingNow;
         private float moveSpeedOriginal;
         private Rigidbody2D rb2D;
-        private int jumpCount;
-        private LayerMask groundLayer;
+        private float jumpCount;
+        [SerializeField] private LayerMask groundLayer;
+        public static bool walkingNow;
+        public static bool isGrounded;
+        [SerializeField] private float groundDetectionRadius = 5f;
 
         private void Awake()
         {
@@ -29,10 +32,12 @@ namespace AlexzanderCowell
         private void Start()
         {
             moveSpeedOriginal = moveSpeed;
+            walkingNow = true;
         }
         
         private void Update()
         {
+            Debug.Log("Is Yoshi Grounded ? " + isGrounded);
             rb2D.gravityScale = gravity;
             horizontalMovement = Input.GetAxis("Horizontal");
             verticalMovement = Input.GetAxis("Vertical");
@@ -44,10 +49,12 @@ namespace AlexzanderCowell
         {
             if (horizontalMovement > 0)
             {
+                gameObject.GetComponent<SpriteRenderer>().flipX = false;
                 transform.Translate(Vector3.right * (horizontalMovement * moveSpeed * Time.deltaTime));
             }
             else if (horizontalMovement < 0)
             {
+                gameObject.GetComponent<SpriteRenderer>().flipX = true;
                 transform.Translate(Vector3.left * (-horizontalMovement * moveSpeed * Time.deltaTime));
             }
             
@@ -62,31 +69,44 @@ namespace AlexzanderCowell
 
             if (runningNow)
             {
+                walkingNow = false;
                 moveSpeed = runSpeed;
             }
             else if (!runningNow)
             {
+                walkingNow = true;
                 moveSpeed = moveSpeedOriginal;
             }
         }
         
         private void PlayerJump()
         {
-            if (Input.GetKeyDown(KeyCode.Space))
+
+            isGrounded = Physics2D.OverlapCircle(transform.position, groundDetectionRadius, groundLayer);
+
+            if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
             {
                 jumpingNow = true;
-                jumpCount += 2;
             }
-            else if (jumpCount == 1 || Input.GetKeyUp(KeyCode.Space))
+            else if (jumpCount >= 3 || Input.GetKeyUp(KeyCode.Space))
             {
                 jumpingNow = false;
+                rb2D.velocity = new Vector2(-rb2D.velocity.x, jumpHeight);
                 jumpCount = 0;
             }
 
             if (jumpingNow)
             {
+                jumpCount += 4 * Time.deltaTime;
                 rb2D.velocity = new Vector2(rb2D.velocity.x, jumpHeight);
             }
         }
+
+        private void OnDrawGizmosSelected()
+        {
+            Gizmos.color = Color.yellow;
+            Gizmos.DrawWireSphere(transform.position, groundDetectionRadius);
+        }
+
     }
 }
