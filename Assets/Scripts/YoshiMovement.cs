@@ -23,7 +23,7 @@ namespace AlexzanderCowell
         public static bool walkingNow;
         public static bool isGrounded;
         [SerializeField] private float groundDetectionRadius = 5f;
-
+        [SerializeField] private GameObject crosshairsZDirection;
         private void Awake()
         {
             rb2D = GetComponent<Rigidbody2D>();
@@ -41,8 +41,12 @@ namespace AlexzanderCowell
             rb2D.gravityScale = gravity;
             horizontalMovement = Input.GetAxis("Horizontal");
             verticalMovement = Input.GetAxis("Vertical");
-            PlayerMovement();
-            PlayerJump();
+            if (ThrowingEggScript.throwingSequence == 0)
+            {
+                PlayerMovement();
+                PlayerJump();
+            }
+            
         }
 
         private void PlayerMovement()
@@ -50,11 +54,13 @@ namespace AlexzanderCowell
             if (horizontalMovement > 0)
             {
                 gameObject.GetComponent<SpriteRenderer>().flipX = false;
+                crosshairsZDirection.GetComponent<SpriteRenderer>().flipX = false;
                 transform.Translate(Vector3.right * (horizontalMovement * moveSpeed * Time.deltaTime));
             }
             else if (horizontalMovement < 0)
             {
                 gameObject.GetComponent<SpriteRenderer>().flipX = true;
+                crosshairsZDirection.GetComponent<SpriteRenderer>().flipX = true;
                 transform.Translate(Vector3.left * (-horizontalMovement * moveSpeed * Time.deltaTime));
             }
             

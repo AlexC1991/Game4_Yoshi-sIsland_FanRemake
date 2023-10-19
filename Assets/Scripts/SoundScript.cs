@@ -8,7 +8,9 @@ namespace AlexzanderCowell
         [SerializeField] private AudioClip yoshiTongue;
         [SerializeField] private AudioClip yoshiRandomSound;
         [SerializeField] private AudioClip yoshiJump;
+        [SerializeField] private AudioClip yoshiAiming;
         private bool startJumpSound;
+        private bool startAimingSound;
         
         public static bool playYoshiTongue;
         private bool randomYoshiSound;
@@ -42,6 +44,7 @@ namespace AlexzanderCowell
 
             if (randomYoshiSound)
             {
+                destinationSoundPlayer.pitch = 1;
                 destinationSoundPlayer.loop = false;
                 destinationSoundPlayer.clip = yoshiRandomSound;
                 destinationSoundPlayer.Play();
@@ -50,6 +53,7 @@ namespace AlexzanderCowell
             
             if (playYoshiTongue)
             {
+                destinationSoundPlayer.pitch = 1;
                 destinationSoundPlayer.loop = false;
                 destinationSoundPlayer.clip = yoshiTongue;
                 destinationSoundPlayer.Play();
@@ -59,6 +63,7 @@ namespace AlexzanderCowell
             {
                 if (!destinationSoundPlayer.isPlaying)
                 {
+                    destinationSoundPlayer.pitch = 1;
                     destinationSoundPlayer.clip = yoshiJump;
                     destinationSoundPlayer.Play();
                     destinationSoundPlayer.loop = true;
@@ -72,6 +77,27 @@ namespace AlexzanderCowell
             {
                 destinationSoundPlayer.loop = false;
             }
+
+            if (ThrowingEggScript.throwingSequence == 1)
+            {
+                startAimingSound = true;
+            }
+            
+            if (ThrowingEggScript.throwingSequence == 0)
+            {
+                destinationSoundPlayer.pitch = 1;
+                destinationSoundPlayer.loop = false;
+            }
+
+            if (startAimingSound)
+            {
+                destinationSoundPlayer.loop = true;
+                destinationSoundPlayer.pitch = 2f;
+                destinationSoundPlayer.clip = yoshiAiming;
+                destinationSoundPlayer.Play();
+                startAimingSound = false;
+            }
+            
         }
     }
 }

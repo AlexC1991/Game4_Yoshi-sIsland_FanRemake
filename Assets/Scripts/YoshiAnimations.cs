@@ -67,6 +67,18 @@ namespace AlexzanderCowell
                 yoshiAnimator.playbackTime = 0;
                 yoshiAnimator.SetBool("Jump", false);
             }
+
+            if (Input.GetKeyDown(KeyCode.Mouse1))
+            {
+                yoshiAnimator.SetBool("FinishedThrowing", false);
+                yoshiAnimator.Play("EggAnimationThowing");
+            }
+            
+            if (ThrowingEggScript.throwingSequence == 0)
+            {
+                yoshiAnimator.SetBool("FinishedThrowing", true);
+            }
+            
         }
     }
 }
